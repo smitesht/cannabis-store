@@ -1,0 +1,49 @@
+.header-container {
+  width: 100%;
+  height: var(--nav-height);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-around;
+  background-color: var(--nav-bg-color);
+  position: fixed;
+  top: 0;
+
+  h1 {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    letter-spacing: 1px;
+    padding: 0 0.25rem;
+    background-color: #fff;
+    color: var(--nav-bg-color);
+
+    .brand-icon {
+      margin-right: 0.5rem;
+    }
+  }
+
+  .cart-nav {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+  }
+}
+
+.link-item {
+  font-size: 1.1rem;
+  text-decoration: none;
+  margin: 0 0.5rem;
+  color: #fff;
+  letter-spacing: 1px;
+}
+
+.link-item:hover {
+  border-bottom: 1px solid white;
+}
+
+.active {
+  border-bottom: 1px solid white;
+}

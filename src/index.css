@@ -1,0 +1,20 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  --nav-height: 4rem;
+  --nav-bg-color: #132a13;
+
+  --primary-color: var(--nav-bg-color);
+}
+
+body {
+  font-family: "ABeeZee", sans-serif;
+}
+
+.main-container {
+  width: 100%;
+}

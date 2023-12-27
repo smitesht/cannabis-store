@@ -1,0 +1,1570 @@
+{
+  "flowers": [
+    {
+      "id": 1,
+      "type": "flower",
+      "title": "PINK KUSH",
+      "brand": "Pure Sunfarms",
+      "feature": "THC 200.0-260.0mg/g\nCBD 0.0-10.0mg/g",
+      "description": "Pure Sunfarms\u2019 cut of Pink Kush from BC\u2019s Vancouver Island is a coastal relative of the legendary OG Kush. This special strain is known for its str...",
+      "price": "$22.99",
+      "image": "www.bccannabisstores.com/cdn/shop/products/1024280_512x512.progressive.png.jpg?v=1627669005"
+    },
+    {
+      "id": 2,
+      "type": "flower",
+      "title": "PURE SUN CBD\n(CANNATONIC)",
+      "brand": "Pure Sunfarms",
+      "feature": "THC 0.0-10.0mg/g\nCBD 120.0-180.0mg/g",
+      "description": "Pure Sunfarms\u2019 Pure Sun CBD is a hand-selected phenotype of the Cannatonic strain. The dried flowers are tight and compact, featuring a mix of pale...",
+      "price": "$22.99",
+      "image": "www.bccannabisstores.com/cdn/shop/products/1024033_512x512.progressive.jpg?v=1681928917"
+    },
+    {
+      "id": 3,
+      "type": "flower",
+      "title": "JEAN GUY",
+      "brand": "Good Supply",
+      "feature": "THC 240.0-300.0mg/g\nCBD 0.0-9.9mg/g",
+      "description": "This medium-to-high THC flower is deep green, covered in trichomes and pack a citrusy punch. Good Supply's Jean Guy is a sativa-dominant strain and...",
+      "price": "$6.99",
+      "image": "www.bccannabisstores.com/cdn/shop/products/00694144002497_MAIN_512x512.progressive.png.jpg?v=1595371044"
+    },
+    {
+      "id": 4,
+      "type": "flower",
+      "title": "BC ORGANIC BLUE DREAM",
+      "brand": "Simply Bare",
+      "feature": "THC 180.0-240.0mg/g\nCBD 0.0-10.0mg/g",
+      "description": "High-THC, sativa-dominant strain (Blueberry Haze) that uses only FVOPA Organic Certified whole flower. Aromatic are a strong blueberry aroma with a...",
+      "price": "$39.99",
+      "image": "www.bccannabisstores.com/cdn/shop/products/1024223_512x416.progressive.jpg?v=1594831183"
+    }
+  ],
+  "smoke": [
+    {
+      "id": 49,
+      "type": "pre-rolls",
+      "title": "SATIVA PRE-ROLL\n(BLEND)",
+      "brand": "TWD",
+      "feature": "THC 180.0-240.0mg/g\nCBD 0.0-1.0mg/g",
+      "description": "Sativa-dominant blend with mid-to-high levels of THC. Earthy herbal notes from dominant myrcene terpene.",
+      "price": "$6.99",
+      "image": "www.bccannabisstores.com/cdn/shop/products/1015130_1_512x512.progressive.png.jpg?v=1638320337"
+    },
+    {
+      "id": 50,
+      "type": "pre-rolls",
+      "title": "INDICA PRE-ROLL\n(BLEND)",
+      "brand": "TWD",
+      "feature": "THC 180.0-240.0mg/g\nCBD 0.0-1.0mg/g",
+      "description": "Indica-dominant blend with mid-to-high levels of THC and earthy, peppery, and piney notes.",
+      "price": "$6.99",
+      "image": "www.bccannabisstores.com/cdn/shop/products/1015130_1_b6750856-4892-4dc7-99d5-a12febbd39b6_512x512.progressive.png.jpg?v=1676047697"
+    },
+    {
+      "id": 51,
+      "type": "pre-rolls",
+      "title": "BC ORGANIC BLUE DREAM PRE-ROLL",
+      "brand": "Simply Bare",
+      "feature": "THC 180.0-240.0mg/g\nCBD 0.0-10.0mg/g",
+      "description": "High-THC, sativa-dominant strain (Blueberry Haze) that uses only FVOPA Organic Certified whole flower. Aromatic are a strong blueberry aroma with a...",
+      "price": "$19.99",
+      "image": "www.bccannabisstores.com/cdn/shop/products/1024413_512x512.progressive.jpg?v=1644260826"
+    },
+    {
+      "id": 52,
+      "type": "pre-rolls",
+      "title": "PEDRO'S SWEET SATIVA PRE-ROLLS",
+      "brand": "Color Cannabis",
+      "feature": "THC 170.0-230.0mg/g\nCBD 0.0-10.0mg/g",
+      "description": "Pedro's Sweet Sativa is a sativa-dominant strain that offers a unique yet delightful aroma of sweet citrus and floral notes with hints of earthy...",
+      "price": "$4.97",
+      "image": "www.bccannabisstores.com/cdn/shop/products/1033398_1_512x512.progressive.jpg?v=1617056473"
+    }
+  ],
+  "vape": [
+    {
+      "id": 123,
+      "type": "Vape",
+      "title": "MOSA X BLOOD ORANGE CARTRIDGE",
+      "brand": "Endgame",
+      "feature": "THC 870.0-920.0mg/g\nCBD 0.0-50.0mg/g",
+      "description": "Mimosa and Blood Orange come together to offer a sweet orange flavour in a sativa-dominant hybrid cart with a terpene profile of limonene, alpha-pi...",
+      "price": "$31.99",
+      "image": "www.bccannabisstores.com/cdn/shop/products/1043504_512x512.progressive.jpg?v=1645646900"
+    },
+    {
+      "id": 124,
+      "type": "Vape",
+      "title": "TAHOE OG KUSH 510 THREAD VAPE KIT",
+      "brand": "Feather",
+      "feature": "THC 800.0-860.0mg/g\nCBD 0.0-50.0mg/g",
+      "description": "Tahoe OG Kush is a northern California cross between OG Kush and San Fernando Valley Kush. This indica-dominant profile has a desired fruity and ga...",
+      "price": "$21.99",
+      "image": "www.bccannabisstores.com/cdn/shop/products/1044973_512x512.progressive.jpg?v=1649445105"
+    },
+    {
+      "id": 125,
+      "type": "Vape",
+      "title": "MELON BUBBLE HAZE 510THREAD VAPE CATRIDG",
+      "brand": "Feather",
+      "feature": "THC 800.0-860.0mg/g\nCBD 0.0-10.0mg/g",
+      "description": "A potent and fun formula with a nostalgically sweet melon aroma. Potent and pure using only natural terpenes, with 80 to 86 percent THC potency, bo...",
+      "price": "$32.99",
+      "image": "www.bccannabisstores.com/cdn/shop/products/1049170_512x512.progressive.jpg?v=1660251793"
+    },
+    {
+      "id": 126,
+      "type": "Vape",
+      "title": "232-S SERIES LIVE ROSIN VAPE CARTRIDGE\n(WEDDING PIE\n)",
+      "brand": "Kolab Project",
+      "feature": "THC 650.0-750.0mg/g\nCBD 0.0mg/g",
+      "description": "This rendition of the 232-S Series, a Live Rosin cart, provides cannabis enthusiasts with an authentic, terpene-rich, full-spectrum experience deli...",
+      "price": "$49.99",
+      "image": "www.bccannabisstores.com/cdn/shop/products/1045046_jpg_480x480.progressive.jpg?v=1671829472"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "type": "flower",
+      "title": "PINK KUSH",
+      "brand": "Pure Sunfarms",
+      "feature": "THC 200.0-260.0mg/g\nCBD 0.0-10.0mg/g",
+      "description": "Pure Sunfarms\u2019 cut of Pink Kush from BC\u2019s Vancouver Island is a coastal relative of the legendary OG Kush. This special strain is known for its str...",
+      "price": "$22.99",
+      "image": "www.bccannabisstores.com/cdn/shop/products/1024280_512x512.progressive.png.jpg?v=1627669005"
+    },
+    {
+      "id": 2,
+      "type": "flower",
+      "title": "PURE SUN CBD\n(CANNATONIC)",
+      "brand": "Pure Sunfarms",
+      "feature": "THC 0.0-10.0mg/g\nCBD 120.0-180.0mg/g",
+      "description": "Pure Sunfarms\u2019 Pure Sun CBD is a hand-selected phenotype of the Cannatonic strain. The dried flowers are tight and compact, featuring a mix of pale...",
+      "price": "$22.99",
+      "image": "www.bccannabisstores.com/cdn/shop/products/1024033_512x512.progressive.jpg?v=1681928917"
+    },
+    {
+      "id": 3,
+      "type": "flower",
+      "title": "JEAN GUY",
+      "brand": "Good Supply",
+      "feature": "THC 240.0-300.0mg/g\nCBD 0.0-9.9mg/g",
+      "description": "This medium-to-high THC flower is deep green, covered in trichomes and pack a citrusy punch. Good Supply's Jean Guy is a sativa-dominant strain and...",
+      "price": "$6.99",
+      "image": "www.bccannabisstores.com/cdn/shop/products/00694144002497_MAIN_512x512.progressive.png.jpg?v=1595371044"
+    },
+    {
+      "id": 4,
+      "type": "flower",
+      "title": "BC ORGANIC BLUE DREAM",
+      "brand": "Simply Bare",
+      "feature": "THC 180.0-240.0mg/g\nCBD 0.0-10.0mg/g",
+      "description": "High-THC, sativa-dominant strain (Blueberry Haze) that uses only FVOPA Organic Certified whole flower. Aromatic are a strong blueberry aroma with a...",
+      "price": "$39.99",
+      "image": "www.bccannabisstores.com/cdn/shop/products/1024223_512x416.progressive.jpg?v=1594831183"
+    },
+    {
+      "id": 5,
+      "type": "flower",
+      "title": "STICKY BUNS",
+      "brand": "Table Top",
+      "feature": "THC 230.0-290.0mg/g",
+      "description": "Sticky Buns from Table Top is a flavourful indica-dominant hybrid with high-THC and a sweet smell. A combination of Kush Mints and Gellati, this BC...",
+      "price": "$99.99",
+      "image": "www.bccannabisstores.com/cdn/shop/products/1039098_512x512.progressive.jpg?v=1634590363"
+    },
+    {
+      "id": 6,
+      "type": "flower",
+      "title": "KUSH COOKIES\n(GARLIC Z)",
+      "brand": "3Saints",
+      "feature": "THC 240.0-300.0mg/g\nCBD 0.0-10.0mg/g",
+      "description": "Highly aromatic notes of savoury herbs & spicy earth, with undertones of citrus & musk.Potent, terpene rich, dense & sticky buds. A rar...",
+      "price": "$8.99",
+      "image": "www.bccannabisstores.com/cdn/shop/products/1041763_512x512.progressive.jpg?v=1638557138"
+    },
+    {
+      "id": 7,
+      "type": "flower",
+      "title": "ULTRA SOUR",
+      "brand": "Big Bag O' Buds",
+      "feature": "THC 230.0-290.0mg/g\nCBD 0.0-1.5mg/g",
+      "description": "Ultra Sour by Big Bag O'Buds is a high-THC, sativa-dominant flower with orange pistils from deep green, crystal rich buds. With leading terpenes, t...",
+      "price": "$99.99",
+      "image": "www.bccannabisstores.com/cdn/shop/products/1036201_512x512.progressive.jpg?v=1623461226"
+    },
+    {
+      "id": 8,
+      "type": "flower",
+      "title": "MANDARIN COOKIES",
+      "brand": "Back Forty",
+      "feature": "THC 250.0-310.0mg/g\nCBD 0.0mg/g",
+      "description": "Sativa-dominant strain featuring a tangy citrus flavour with a hint of sweet nuttiness. A cross of the classic Cookies strain and Mandarin Sunset w...",
+      "price": "$21.99",
+      "image": "www.bccannabisstores.com/cdn/shop/products/1045392_512x512.progressive.jpg?v=1651686435"
+    },
+    {
+      "id": 9,
+      "type": "flower",
+      "title": "LEGENDARY KUSH",
+      "brand": "Freedom Cannabis",
+      "feature": "THC 230.0-290.0mg/g\nCBD 1.0-10.0mg/g",
+      "description": "Freedom Cannabis' Legendary Kush is a cross between OK KUSH and Legendary Larry. This indica-dominant possess a piney lemon aroma while providing a...",
+      "price": "$99.99",
+      "image": "www.bccannabisstores.com/cdn/shop/products/1040021_9badc77f-dbe5-43dd-8374-10cc1baf1693_500x500.progressive.jpg?v=1668801302"
+    },
+    {
+      "id": 10,
+      "type": "flower",
+      "title": "BLUE DREAM",
+      "brand": "Spinach",
+      "feature": "THC 210.0-260.0mg/g\nCBD 0.0-10.0mg/g",
+      "description": "Originally from Cali, this sunny, high THC sativa strain has notes of berry, citrus, and sweetness.",
+      "price": "$19.99",
+      "image": "www.bccannabisstores.com/cdn/shop/products/1022300_jpg_480x480.progressive.jpg?v=1600980980"
+    },
+    {
+      "id": 11,
+      "type": "flower",
+      "title": "INDICA",
+      "brand": "Grasslands",
+      "feature": "THC 170.0-230.0mg/g\nCBD 0.0-10.0mg/g",
+      "description": "Indica dominant flower with mid to high THC potential.",
+      "price": "$69.99",
+      "image": "www.bccannabisstores.com/cdn/shop/products/1026129_512x512.progressive.jpg?v=1611601086"
+    },
+    {
+      "id": 12,
+      "type": "flower",
+      "title": "SATIVA",
+      "brand": "Grasslands",
+      "feature": "THC 170.0-230.0mg/g\nCBD 0.0-10.0mg/g",
+      "description": "Sativa-dominant, proprietary strain from Grasslands.",
+      "price": "$69.99",
+      "image": "www.bccannabisstores.com/cdn/shop/products/1026111_512x512.progressive.jpg?v=1611601272"
+    },
+    {
+      "id": 13,
+      "type": "flower",
+      "title": "PINEAPPLE EXPRESS",
+      "brand": "Good Supply",
+      "feature": "THC 180.0-240.0mg/g\nCBD 0.0-20.0mg/g",
+      "description": "Pineapple Express is a sativa-leaning hybrid that excels in both potency and aroma: its caramel, citrus, and mango notes are almost as recognizable...",
+      "price": "$19.99",
+      "image": "www.bccannabisstores.com/cdn/shop/products/1036409_512x512.progressive.jpg?v=1626638490"
+    },
+    {
+      "id": 14,
+      "type": "flower",
+      "title": "ACAPULCO GOLD",
+      "brand": "Jonny Chronic",
+      "feature": "THC 220.0-280.0mg/g\nCBD 0.0mg",
+      "description": "Acapulco Gold from Jonny Chronic is a high-THC, old-school, sativa-dominant strain that produces big beautiful buds that glisten with trichome c...",
+      "price": "$9.99",
+      "image": "www.bccannabisstores.com/cdn/shop/products/1027598_1_512x512.progressive.jpg?v=1603387657"
+    },
+    {
+      "id": 15,
+      "type": "flower",
+      "title": "BC ORGANIC PURE CAKE SKUNK",
+      "brand": "COAST MOUNTAIN CANNABIS",
+      "feature": "THC 260.0-310.0mg/g\nCBD 0.0-1.0mg/g",
+      "description": "High-THC, indica-dominant , certified organic flower (PACS), grown indoors in BC in organic living soil without the use of artificial pesticides or...",
+      "price": "$36.99",
+      "image": "www.bccannabisstores.com/cdn/shop/products/1036250_512x512.progressive.jpg?v=1624478529"
+    },
+    {
+      "id": 16,
+      "type": "flower",
+      "title": "ORGANIC COMATOSE",
+      "brand": "1964",
+      "feature": "THC 250.0-300.0mg/g\nCBD 0.0-10.0mg/g",
+      "description": "Comatose is a heavy Kush and one of Canada's most popular legacy strains. This indica-dominant flower is reported to be a cross of OG Kush and anot...",
+      "price": "$9.99",
+      "image": "www.bccannabisstores.com/cdn/shop/products/1046291_512x512.progressive.jpg?v=1651774433"
+    },
+    {
+      "id": 17,
+      "type": "flower",
+      "title": "ROOT BEER FLOAT",
+      "brand": "BOLD",
+      "feature": "THC 300.0-350.0mg/g\nCBD 1.0-10.0mg/g",
+      "description": "Root Beer Float is a rare indica-dominant hybrid created through crossing XXX OG and Vanilla Kush. Enter into a sweet hazy, earthy bliss with hints...",
+      "price": "$34.99",
+      "image": "www.bccannabisstores.com/cdn/shop/products/1045236_512x512.progressive.jpg?v=1653508429"
+    },
+    {
+      "id": 18,
+      "type": "flower",
+      "title": "PLATINUM COOKIES",
+      "brand": "Palmetto",
+      "feature": "THC 220.0-260.0mg/g\nCBD 0.0-10.0mg/g",
+      "description": "Platinum Cookies is a sativa-hybrid that\u2019s a whole lot of sweet and a little bit spicy, with just a hint of berry. With roots in OG Kush and Durban...",
+      "price": "$20.97",
+      "image": "www.bccannabisstores.com/cdn/shop/products/1035302_512x512.progressive.jpg?v=1622761266"
+    },
+    {
+      "id": 19,
+      "type": "flower",
+      "title": "D. BURGER",
+      "brand": "The Original Fraser Valley Weed Co.",
+      "feature": "THC 220.0-280.0mg/g\nCBD 0.0-10.0mg/g",
+      "description": "Donny Burger is deliciously savoury, pungent and gassy \u2014 think grilled cheese and dark garlic in a bulk bag. This high-THC indica is a cross of GMO...",
+      "price": "$104.99",
+      "image": "www.bccannabisstores.com/cdn/shop/products/1048016_512x512.progressive.jpg?v=1656365459"
+    },
+    {
+      "id": 20,
+      "type": "flower",
+      "title": "LIBERTY HAZE",
+      "brand": "18twelve: Reserve",
+      "feature": "THC 260.0-320.0mg/g\nCBD 0.0-50.0mg/g",
+      "description": "Liberty Haze is the citrusy, sweet sativa you have been looking for! A beautiful cross between G13 and Chemdawg that produces vibrant green buds fr...",
+      "price": "$29.99",
+      "image": "www.bccannabisstores.com/cdn/shop/products/1045988_BCICPbadge_500x500.progressive.jpg?v=1653951532"
+    },
+    {
+      "id": 21,
+      "type": "flower",
+      "title": "BANDWAGON INDICA\n(VARIES)",
+      "brand": "Homestead",
+      "feature": "THC 180.0-250.0mg/g\nCBD 0.0-10.0mg/g",
+      "description": "Indica-dominant strain grown in living soil and harvested by hand.",
+      "price": "$129.99",
+      "image": "www.bccannabisstores.com/cdn/shop/products/1030634_512x512.progressive.jpg?v=1624489382"
+    },
+    {
+      "id": 22,
+      "type": "flower",
+      "title": "KUSH MINTS\n(KUSH MINTS\n)",
+      "brand": "TWEED",
+      "feature": "THC 280.0-340.0mg/g\nCBD 0.0-1.0mg/g",
+      "description": "Tweed Kush Mints is a hybrid strain with high THC levels and minimal amounts of CBD. Kush Mints comes from a cross of Animal Mints and Bubba Kush. ...",
+      "price": "$22.97",
+      "image": "www.bccannabisstores.com/cdn/shop/products/1048800_512x512.progressive.jpg?v=1661883396"
+    },
+    {
+      "id": 23,
+      "type": "flower",
+      "title": "GMO COOKIES\n(GARLIC MUSHROOM ONION COOKIES)",
+      "brand": "Spinach",
+      "feature": "THC 230.0-280.0mg/g\nCBD 0.0-10.0mg/g",
+      "description": "A cross between Girl Scout Cookies and Chemdawg with a Kush background, GMO (Garlic, Mushroom, Onion) Cookies has an unmistakable sweet and savory ...",
+      "price": "$19.99",
+      "image": "www.bccannabisstores.com/cdn/shop/products/1042167_512x512.progressive.jpg?v=1639773899"
+    },
+    {
+      "id": 24,
+      "type": "flower",
+      "title": "HGH",
+      "brand": "Castle Rock Farms",
+      "feature": "THC 260.0-320.0mg/g\nCBD 0.0-2.0mg/g",
+      "description": "Indica-dominant HGH was bred by combining GMO with Bruce Banner. These buds grow large, dense and covered in trichomes. These beautiful buds are gr...",
+      "price": "$24.97",
+      "image": "www.bccannabisstores.com/cdn/shop/products/1046051_512x512.progressive.jpg?v=1651179078"
+    },
+    {
+      "id": 25,
+      "type": "flower",
+      "title": "MANGO",
+      "brand": "5 Points",
+      "feature": "THC 60.0-150.0mg/g\nCBD 60.0-150.0mg/g",
+      "description": "Hybrid strain from Mango Haze X Mango Sapphire lineage with a fruity and earthy taste. It has a terpene profile of limonene, myrcene, and selinadie...",
+      "price": "$22.99",
+      "image": "www.bccannabisstores.com/cdn/shop/products/1044312_512x512.progressive.jpg?v=1647884186"
+    },
+    {
+      "id": 26,
+      "type": "flower",
+      "title": "ORGANIC SUPER LEMON HAZE",
+      "brand": "1964",
+      "feature": "THC 220.0-280.0mg/g\nCBD 0.0-10.0mg/g",
+      "description": "Organic Super Lemon Haze by 1964 is a version of one of the most well-known sativa cultivars. Originating from a cross of Lemon Skunk and Super Sil...",
+      "price": "$32.99",
+      "image": "www.bccannabisstores.com/cdn/shop/products/1056266_jpg_480x480.progressive.jpg?v=1669665087"
+    },
+    {
+      "id": 27,
+      "type": "flower",
+      "title": "JEALOUSY",
+      "brand": "BLKMKT",
+      "feature": "THC 240.0-300.0mg/g\nCBD 0.0-10.0mg/g",
+      "description": "This unique cross has gas and a rep for hitting hard. Dark hued buds with hints of olive green, and caked sugar leaves contrasting orange pistils, ...",
+      "price": "$39.99",
+      "image": "www.bccannabisstores.com/cdn/shop/products/1047158_512x512.progressive.jpg?v=1654186997"
+    },
+    {
+      "id": 28,
+      "type": "flower",
+      "title": "BANDWAGON SATIVA\n(VARIES)",
+      "brand": "Homestead",
+      "feature": "THC 180.0-250.0mg/g\nCBD 0.0-10.0mg/g",
+      "description": "Sativa-dominant strain grown in living soil and harvested by hand.",
+      "price": "$129.99",
+      "image": "www.bccannabisstores.com/cdn/shop/products/1036755_501x752.progressive.jpg?v=1624489316"
+    },
+    {
+      "id": 29,
+      "type": "flower",
+      "title": "ATOMIC SOUR GRAPEFRUIT",
+      "brand": "Spinach",
+      "feature": "THC 210.0-280.0mg/g\nCBD 0.0-10.0mg/g",
+      "description": "A cross of rocket fuel from Chemdawg and powered up potency of SFV OG Kush. This next-level strain packs grapefruit flavours at near nuclear levels...",
+      "price": "$19.99",
+      "image": "www.bccannabisstores.com/cdn/shop/products/1038736_512x512.progressive.jpg?v=1632259234"
+    },
+    {
+      "id": 30,
+      "type": "flower",
+      "title": "SATIVA 30% PLUS",
+      "brand": "Weed Me Grind",
+      "feature": "THC 300.0-360.0mg/g\nCBD 0.0-10.0mg/g",
+      "description": "Presenting Weed Me's strain-specific, premium-milled cannabis. This sativa dominant strain boasts a very strong THC potency and milled for convenie...",
+      "price": "$34.99",
+      "image": "www.bccannabisstores.com/cdn/shop/files/1062390_jpg_480x480.progressive.jpg?v=1682611145"
+    },
+    {
+      "id": 31,
+      "type": "flower",
+      "title": "AMSTERDAM SATIVA ORGANIC CHERRY MINTS",
+      "brand": "Highly Dutch Organic",
+      "feature": "THC 240.0-300.0mg/g\nCBD 0.0-20.0mg/g",
+      "description": "Organic Cherry Mints is a high-THC, sativa-dominant hybrid with genetics originating from Seed Junky. It is a sticky, dense, floral bud that bri...",
+      "price": "$129.99",
+      "image": "www.bccannabisstores.com/cdn/shop/products/1053750_512x512.progressive.jpg?v=1676394583"
+    },
+    {
+      "id": 32,
+      "type": "flower",
+      "title": "BC BOUNTY",
+      "brand": "The Original Fraser Valley Weed Co.",
+      "feature": "THC 160.0-220.0mg/g\nCBD 0.0-10.0mg/g",
+      "description": "BC Bounty from The Original Fraser Valley Weed Co. A bulk, rotating ounce of expertly grown quality dried flower. Greenhouse-grown in abundance ...",
+      "price": "$69.99",
+      "image": "www.bccannabisstores.com/cdn/shop/files/1063002_512x512.progressive.jpg?v=1689694727"
+    },
+    {
+      "id": 33,
+      "type": "flower",
+      "title": "PLATINUM GARLIC",
+      "brand": "Broken Coast",
+      "feature": "THC 190.0-260.0mg/g\nCBD 0.0-10.0mg/g",
+      "description": "Platinum Garlic is sweet, savoury and absolutely stunning. This unique cultivar features tight buds with remarkably deep green and purple colourati...",
+      "price": "$21.97",
+      "image": "www.bccannabisstores.com/cdn/shop/products/1046028_512x512.progressive.jpg?v=1654023909"
+    },
+    {
+      "id": 34,
+      "type": "flower",
+      "title": "SWEET BERRY KUSH\n(SWEET BERRY KUSH\n)",
+      "brand": "Good Supply",
+      "feature": "THC 230.0-290.0mg/g\nCBD 0.0-10.0mg/g",
+      "description": "Ready to meet the very berry kush of your dreams? Good, because it\u2019s love at first sight with Sweet Berry Kush. Unveil the big berry and citrus swe...",
+      "price": "$18.97",
+      "image": "www.bccannabisstores.com/cdn/shop/products/1046580_512x512.progressive.jpg?v=1653504540"
+    },
+    {
+      "id": 35,
+      "type": "flower",
+      "title": "CRUNCH BERRIES",
+      "brand": "Sweetgrass Organic Cannabis",
+      "feature": "THC 250.0-300.0mg/g\nCBD 0.0-2.0mg/g",
+      "description": "Crunch Berries is an FVOPA certified organic indica-dominant hybrid of Blueberry x Triple OG, with potent potential. It has an incredible aroma owi...",
+      "price": "$41.99",
+      "image": "www.bccannabisstores.com/cdn/shop/products/1044429_512x512.progressive.jpg?v=1646683433"
+    },
+    {
+      "id": 36,
+      "type": "flower",
+      "title": "SPACE CAKE\n(SNOW LOTUS X GIRL SCOUT COOKIES)",
+      "brand": "Spinach",
+      "feature": "THC 250.0-300.0mg/g\nCBD 0.0-5.0mg/g",
+      "description": "Dive into a baker\u2019s bowl of frosting, sweetness, and colour with this decadent and frosty flower. With crystal clear buds and creamy flavours, Spac...",
+      "price": "$109.99",
+      "image": "www.bccannabisstores.com/cdn/shop/files/1062860_512x512.progressive.jpg?v=1684339496"
+    },
+    {
+      "id": 37,
+      "type": "flower",
+      "title": "STO:LO HAZE",
+      "brand": "All Nations",
+      "feature": "THC 250.0-310.0mg/g\nCBD 0.1-10.0mg/g",
+      "description": "Explore the refreshing and boosting terpenes from Super Silver Haze crossed with the cozy body high of Northern Lights.\u00a0 These buds are light green...",
+      "price": "$34.99",
+      "image": "www.bccannabisstores.com/cdn/shop/products/1048701_b02860e9-8a81-4e70-acad-bf52dc810b37_512x512.progressive.jpg?v=1660948865"
+    },
+    {
+      "id": 38,
+      "type": "flower",
+      "title": "MINT CHOCOLATE",
+      "brand": "Sweetgrass Organic Cannabis",
+      "feature": "THC 240.0-290.0mg/g\nCBD 0.0-2.0mg/g",
+      "description": "MCC is a balanced FVOPA certified organic hybrid consisting of equal parts sativa and indica, with potent potential. Bred by Exotic Genetix, a cros...",
+      "price": "$29.97",
+      "image": "www.bccannabisstores.com/cdn/shop/products/1044437_512x512.progressive.jpg?v=1649267094"
+    },
+    {
+      "id": 39,
+      "type": "flower",
+      "title": "WEDDING CAKE",
+      "brand": "Tweed",
+      "feature": "THC 220.0-280.0mg/g\nCBD 0.0-1.0mg/g",
+      "description": "Tweed Wedding Cake is an indica-dominant strain with high-THC and minimal amounts of CBD. Wedding Cake comes from a cross of Cherry Pie and GS Cook...",
+      "price": "$109.99",
+      "image": "www.bccannabisstores.com/cdn/shop/products/1053651_512x512.progressive.png.jpg?v=1666282318"
+    },
+    {
+      "id": 40,
+      "type": "flower",
+      "title": "ORGANIC GELATO #41",
+      "brand": "1964",
+      "feature": "THC 220.0-280.0mg/g\nCBD 0.0-10.0mg/g",
+      "description": "Gelato #41 is a legendary cultivar that comes from a cross of Thin Mint GSC and Sunset Sherbet. Known for its sweet, herbal aromas, this hybrid\u2019s d...",
+      "price": "$29.97",
+      "image": "www.bccannabisstores.com/cdn/shop/products/1062130_512x512.progressive.jpg?v=1678893397"
+    },
+    {
+      "id": 41,
+      "type": "flower",
+      "title": "COOKIE CAKE WHOLE FLOWER\n(MERINGUE)",
+      "brand": "GreenSeal",
+      "feature": "THC 270.0-320.0mg/g\nCBD 0.0-10.0mg/g",
+      "description": "Cookie Cake is the sativa-dominant offspring of a Wedding Cake x Animal Cookies \u2018celebrity cross\u2019 conceived via GreenSeal\u2019s Nursery program. A true...",
+      "price": "$24.99",
+      "image": "www.bccannabisstores.com/cdn/shop/products/1062174_512x512.progressive.jpg?v=1681484987"
+    },
+    {
+      "id": 42,
+      "type": "flower",
+      "title": "PINEAPPLE GOD",
+      "brand": "Soar",
+      "feature": "THC 230.0-290.0mg/g\nCBD 0.0-10.0mg/g",
+      "description": "Pineapple God is a high-THC indica-dominant with exotic and tropical aromas of candied pineapple, creamy coconut, and sweet citrus. A potent cross ...",
+      "price": "$46.99",
+      "image": "www.bccannabisstores.com/cdn/shop/products/1058205_512x512.progressive.jpg?v=1673911657"
+    },
+    {
+      "id": 43,
+      "type": "flower",
+      "title": "TIGER CAKE\n(TIGER CAKE\n)",
+      "brand": "Tweed",
+      "feature": "THC 240.0-300.0mg/g\nCBD 0.0-1.0mg/g",
+      "description": "Tweed Tiger cake is a hybrid strain with high-THC and minimal amounts of CBD. Tiger cake comes from a cross of Layer Cake and Menthol. Its buds are...",
+      "price": "$19.97",
+      "image": "www.bccannabisstores.com/cdn/shop/products/1048792_512x512.progressive.jpg?v=1657911027"
+    },
+    {
+      "id": 44,
+      "type": "flower",
+      "title": "BLACK MOUNTAIN SIDE",
+      "brand": "Weed Me",
+      "feature": "THC 280.0-340.0mg/g\nCBD 0.0-10.0mg/g",
+      "description": "This strain is one among many phenotypes of Girl Scout Cookies, crossed with Durban Poison and OG Kush. This sativa-dominant flower boasts potent a...",
+      "price": "$99.99",
+      "image": "www.bccannabisstores.com/cdn/shop/files/1062391_jpg_480x480.progressive.jpg?v=1682611367"
+    },
+    {
+      "id": 45,
+      "type": "flower",
+      "title": "DEATH STAR",
+      "brand": "BOLD",
+      "feature": "THC 300.0-350.0mg/g\nCBD 1.0-10.0mg/g",
+      "description": "Death Star is a powerful cross of Sensi Star and Sour Diesel. This pungent, high-THC, indica-dominant strain will captivate you with its sticky bud...",
+      "price": "$34.99",
+      "image": "www.bccannabisstores.com/cdn/shop/products/1059948_512x512.progressive.jpg?v=1675360145"
+    },
+    {
+      "id": 46,
+      "type": "flower",
+      "title": "MAC DADDY",
+      "brand": "All Nations",
+      "feature": "THC 250.0-310.0mg/g\nCBD 0.1-10.0mg/g",
+      "description": "A cross between the popular Miracle Alien Cookies and the sweet and flavourful Granddaddy Purple.\u00a0 This indica leaning strain produces large, dense...",
+      "price": "$34.99",
+      "image": "www.bccannabisstores.com/cdn/shop/products/1048727_7defcf78-e09c-417f-a446-639c986347f3_512x512.progressive.jpg?v=1660948910"
+    },
+    {
+      "id": 47,
+      "type": "flower",
+      "title": "RAINBOW DRIVER CRAFT",
+      "brand": "Woody Nelson",
+      "feature": "THC 270.0-320.0mg/g\nCBD 0.0-20.0mg/g",
+      "description": "The Woody Nelson edition of the\u00a0Rainbow Driver\u00a0genetic was bred by\u00a0Archive Seed Bank\u00a0and grown in an indoor vertical farm using organic living soil...",
+      "price": "$36.99",
+      "image": "www.bccannabisstores.com/cdn/shop/files/MicrosoftTeams-image_24_512x512.progressive.jpg?v=1688748577"
+    },
+    {
+      "id": 48,
+      "type": "flower",
+      "title": "DESSERT\n(APPLE FRITTER\n)",
+      "brand": "LowKey by MTL Cannabis",
+      "feature": "THC 250.0-300.0mg/g\nCBD 0.0-10.0mg/g",
+      "description": "A 50/50 Hybrid cross of Sour Apples & Animal Cookies. Dense, light green, flower covered in trichomes featuring caryophyllene, limonene, and pi...",
+      "price": "$22.99",
+      "image": "www.bccannabisstores.com/cdn/shop/products/1048529_512x512.progressive.jpg?v=1659731768"
+    },
+    {
+      "id": 49,
+      "type": "pre-rolls",
+      "title": "SATIVA PRE-ROLL\n(BLEND)",
+      "brand": "TWD",
+      "feature": "THC 180.0-240.0mg/g\nCBD 0.0-1.0mg/g",
+      "description": "Sativa-dominant blend with mid-to-high levels of THC. Earthy herbal notes from dominant myrcene terpene.",
+      "price": "$6.99",
+      "image": "www.bccannabisstores.com/cdn/shop/products/1015130_1_512x512.progressive.png.jpg?v=1638320337"
+    },
+    {
+      "id": 50,
+      "type": "pre-rolls",
+      "title": "INDICA PRE-ROLL\n(BLEND)",
+      "brand": "TWD",
+      "feature": "THC 180.0-240.0mg/g\nCBD 0.0-1.0mg/g",
+      "description": "Indica-dominant blend with mid-to-high levels of THC and earthy, peppery, and piney notes.",
+      "price": "$6.99",
+      "image": "www.bccannabisstores.com/cdn/shop/products/1015130_1_b6750856-4892-4dc7-99d5-a12febbd39b6_512x512.progressive.png.jpg?v=1676047697"
+    },
+    {
+      "id": 51,
+      "type": "pre-rolls",
+      "title": "BC ORGANIC BLUE DREAM PRE-ROLL",
+      "brand": "Simply Bare",
+      "feature": "THC 180.0-240.0mg/g\nCBD 0.0-10.0mg/g",
+      "description": "High-THC, sativa-dominant strain (Blueberry Haze) that uses only FVOPA Organic Certified whole flower. Aromatic are a strong blueberry aroma with a...",
+      "price": "$19.99",
+      "image": "www.bccannabisstores.com/cdn/shop/products/1024413_512x512.progressive.jpg?v=1644260826"
+    },
+    {
+      "id": 52,
+      "type": "pre-rolls",
+      "title": "PEDRO'S SWEET SATIVA PRE-ROLLS",
+      "brand": "Color Cannabis",
+      "feature": "THC 170.0-230.0mg/g\nCBD 0.0-10.0mg/g",
+      "description": "Pedro's Sweet Sativa is a sativa-dominant strain that offers a unique yet delightful aroma of sweet citrus and floral notes with hints of earthy...",
+      "price": "$4.97",
+      "image": "www.bccannabisstores.com/cdn/shop/products/1033398_1_512x512.progressive.jpg?v=1617056473"
+    },
+    {
+      "id": 53,
+      "type": "pre-rolls",
+      "title": "TROPIC THUNDER J'S PRE-ROLLS",
+      "brand": "Shred",
+      "feature": "THC 180.0-244.0mg/g\nCBD 0.0-7.0mg/g",
+      "description": "These hybrid, high-THC pre-rolls come in a pack of 14 and include a combination of strains with citrus and tropical aromas.",
+      "price": "$41.99",
+      "image": "www.bccannabisstores.com/cdn/shop/products/1028133_1_512x512.progressive.jpg?v=1610587971"
+    },
+    {
+      "id": 54,
+      "type": "pre-rolls",
+      "title": "GHOST TRAIN HAZE PRE-ROLL",
+      "brand": "Color Cannabis",
+      "feature": "THC 200.0-250.0mg/g\nCBD 0.0-10.0mg/g",
+      "description": "Color's elevated Ghost Train Haze pre-rolls offer a delightful aroma of sweet pine and earthy pepper notes. Made with premium flower and cutting...",
+      "price": "$19.99",
+      "image": "www.bccannabisstores.com/cdn/shop/products/1033406_512x512.progressive.jpg?v=1617216744"
+    },
+    {
+      "id": 55,
+      "type": "pre-rolls",
+      "title": "FLO PRE-ROLL\n(FLO\n)",
+      "brand": "Divvy",
+      "feature": "THC 180.0-230.0mg/g\nCBD 0.0-10.0mg/g",
+      "description": "Flo-Pre-Rolls by Divvy are a pack of 12 sativa-dominant, high-THC pre-rolls with flavours of sweet citrus and earthy hints of pine with a scent of ...",
+      "price": "$22.99",
+      "image": "www.bccannabisstores.com/cdn/shop/products/1034446_512x512.progressive.png.jpg?v=1624636631"
+    },
+    {
+      "id": 56,
+      "type": "pre-rolls",
+      "title": "GARLIC Z PRE-ROLLS",
+      "brand": "Halcyon",
+      "feature": "THC 240.0-300.0mg/g\nCBD 0.0-10.0mg/g",
+      "description": "High-THC, indica-dominant pre-roll with a terpene profile of caryophyllene, farnesene, and humulene.",
+      "price": "$4.99",
+      "image": "www.bccannabisstores.com/cdn/shop/products/1034750_512x512.progressive.png.jpg?v=1624548511"
+    },
+    {
+      "id": 57,
+      "type": "pre-rolls",
+      "title": "MANGO HAZE PRE-ROLLS",
+      "brand": "Color Cannabis",
+      "feature": "THC 50.0-90.0mg/g\nCBD 70.0-130.0mg/g",
+      "description": "Mango Haze pre-rolls are a sativa-dominant, high-CBD strain from Northern Lights lineage, which is a cross of Northern Lights #5, Skunk, and Haze t...",
+      "price": "$5.99",
+      "image": "www.bccannabisstores.com/cdn/shop/products/1035500_1_512x512.progressive.jpg?v=1661464785"
+    },
+    {
+      "id": 58,
+      "type": "pre-rolls",
+      "title": "GG 4 PRE-ROLL\n(GORILLA GLUE \n)",
+      "brand": "Station House",
+      "feature": "THC 190.0-220.0mg/g\nCBD 0.0-2.0mg/g",
+      "description": "Station House pre-rolls are made from whole flower GG4 and are available in packs of 12. This indica-dominant strain is known for its pungent earth...",
+      "price": "$3.97",
+      "image": "www.bccannabisstores.com/cdn/shop/products/1049071_512x512.progressive.jpg?v=1661812629"
+    },
+    {
+      "id": 59,
+      "type": "pre-rolls",
+      "title": "WEDDING PIE PRE-ROLL",
+      "brand": "Back Forty",
+      "feature": "THC 200.0-260.0mg/g\nCBD 0.0mg/g",
+      "description": "Indica-dominant strain with a spicy, cracked pepper profile.",
+      "price": "$18.99",
+      "image": "www.bccannabisstores.com/cdn/shop/products/1037456_512x512.progressive.jpg?v=1632960777"
+    },
+    {
+      "id": 60,
+      "type": "pre-rolls",
+      "title": "BLUEBERRY SEAGAL PRE-ROLLS",
+      "brand": "Color Cannabis",
+      "feature": "THC 170.0-240.0mg/g\nCBD 0.0-20.0mg/g",
+      "description": "Blueberry Seagal is an indica-dominant hybrid that offers a sweet floral aroma and strong THC potency potential. Color Cannabis uses only the hi...",
+      "price": "$19.99",
+      "image": "www.bccannabisstores.com/cdn/shop/products/1037654_512x512.progressive.jpg?v=1632961204"
+    },
+    {
+      "id": 61,
+      "type": "pre-rolls",
+      "title": "WEDDING POOP PRE-ROLL",
+      "brand": "Castle Rock Farms",
+      "feature": "THC 230.0-280.0mg/g\nCBD 0.0-2.0mg/g",
+      "description": "High-THC, indica-dominant hybrid Wedding Poop Pre-Roll (Wedding Cake x Unicorn Poop) features a rich flavour profile with undertones of vanilla cak...",
+      "price": "$4.99",
+      "image": "www.bccannabisstores.com/cdn/shop/products/1038413_512x512.progressive.jpg?v=1670958298"
+    },
+    {
+      "id": 62,
+      "type": "pre-rolls",
+      "title": "WATERMELON GUSHERS PRE-ROLL",
+      "brand": "BC Green",
+      "feature": "THC 240.0-290.0mg/g\nCBD 0.0-2.0mg/g",
+      "description": "These beautiful buds are round and dense with a strong sweet nose. The trichome production is very intense and whatever is not green or purple is m...",
+      "price": "$5.49",
+      "image": "www.bccannabisstores.com/cdn/shop/products/1038454_512x512.progressive.jpg?v=1634585396"
+    },
+    {
+      "id": 63,
+      "type": "pre-rolls",
+      "title": "DOJA OKANAGAN GROWN ULTRA SOUR PRE-ROLL",
+      "brand": "Doja OG",
+      "feature": "THC 220.0-280.0mg/g\nCBD 0.0-10.0mg/g",
+      "description": "Formerly Doja Dream, this sativa-dominant strain is a descendant of MK Ultra and East Coast Sour Diesel. These Okanagan-grown, hang-dried buds are ...",
+      "price": "$14.99",
+      "image": "www.bccannabisstores.com/cdn/shop/products/1038819_512x512.progressive.jpg?v=1632960125"
+    },
+    {
+      "id": 64,
+      "type": "pre-rolls",
+      "title": "PINK KUSH PRE-ROLLS",
+      "brand": "Pure Sunfarms",
+      "feature": "THC 200.0-260.0mg/g\nCBD 0.0-10.0mg/g",
+      "description": "All-natural 10-pack of 0.3 g pre-rolls made with BC-grown whole indica flower. No trim. No shake. The Pure Sunfarms cut of Pink Kush, originally fr...",
+      "price": "$19.99",
+      "image": "www.bccannabisstores.com/cdn/shop/products/1039015_512x512.progressive.jpg?v=1632958495"
+    },
+    {
+      "id": 65,
+      "type": "pre-rolls",
+      "title": "WATERMELON GUSHERS PRE-ROLLS",
+      "brand": "BC Green",
+      "feature": "THC 240.0-290.0mg/g\nCBD 0.0-2.0mg/g",
+      "description": "These beautiful buds are round and dense with a strong sweet nose. The trichome production is very intense and whatever is not green or purple is m...",
+      "price": "$14.99",
+      "image": "www.bccannabisstores.com/cdn/shop/products/1039056_512x512.progressive.jpg?v=1634588778"
+    },
+    {
+      "id": 66,
+      "type": "pre-rolls",
+      "title": "REDEES COLD CREEK KUSH PRE-ROLL",
+      "brand": "Redecan",
+      "feature": "THC 170.0-200.0mg/g\nCBD 0.0-10.0mg/g",
+      "description": "Thoughtfully designed in a unique straight-roll, Redees are sized at 0.4g and come in a 10-pack that\u2019s compact and convenient. A sativa dominant hy...",
+      "price": "$20.99",
+      "image": "www.bccannabisstores.com/cdn/shop/products/1039650_512x512.progressive.jpg?v=1634944013"
+    },
+    {
+      "id": 67,
+      "type": "pre-rolls",
+      "title": "REDEES WAPPA PRE-ROLLS",
+      "brand": "Redecan",
+      "feature": "THC 180.0-220.0mg/g\nCBD 0.0-10.0mg/g",
+      "description": "Redees by Redecan are an unparalleled pre-roll experience. Thoughtfully designed in a unique straight-roll, Redees are personal sized at 0.4g and c...",
+      "price": "$20.99",
+      "image": "www.bccannabisstores.com/cdn/shop/products/1039650_fc38b3fa-a139-4b47-9893-2dc71ee1ba7b_512x512.progressive.jpg?v=1634944091"
+    },
+    {
+      "id": 68,
+      "type": "pre-rolls",
+      "title": "BLUE DREAM PRE-ROLLS",
+      "brand": "Pure Sunfarms",
+      "feature": "THC 150.0-210.0mg/g\nCBD 0.0-10.0mg/g",
+      "description": "A West Coast cultivar, Blue Dream is a fruity cross of Blueberry and Haze grown in the modern Pure Sunfarms greenhouse in the Fraser Valley. It ...",
+      "price": "$11.99",
+      "image": "www.bccannabisstores.com/cdn/shop/products/1039189_512x512.progressive.jpg?v=1635969815"
+    },
+    {
+      "id": 69,
+      "type": "pre-rolls",
+      "title": "SATIVA 20% PLUS PRE-ROLLS",
+      "brand": "Weed Me Grind",
+      "feature": "THC 250.0-310.0mg/g\nCBD 0.0-50.0mg/g",
+      "description": "Presenting Weed Me's strain specific 0.35g pre-rolls! This sativa dominant strain boasts strong THC, and is milled and then filled into light-weigh...",
+      "price": "$22.99",
+      "image": "www.bccannabisstores.com/cdn/shop/products/1041110_512x512.progressive.jpg?v=1636401079"
+    },
+    {
+      "id": 70,
+      "type": "pre-rolls",
+      "title": "INDICA 20% PLUS PRE-ROLLS",
+      "brand": "Weed Me Grind",
+      "feature": "THC 250.0-310.0mg/g\nCBD 0.0-50.0mg/g",
+      "description": "Presenting Weed Me's strain specific 0.35g pre-rolls! This indica-dominant strain boasts a very strong THC, and is milled then filled into light-we...",
+      "price": "$22.99",
+      "image": "www.bccannabisstores.com/cdn/shop/products/1041128_512x512.progressive.jpg?v=1636402126"
+    },
+    {
+      "id": 71,
+      "type": "pre-rolls",
+      "title": "AMNESIA HAZE PRE-ROLLS",
+      "brand": "Broken Coast",
+      "feature": "THC 220.0-280.0mg/g\nCBD 0.0-20.0mg/g",
+      "description": "Amnesia Haze is everything Broken Coast thinks a true sativa should be. Uplifting lemon and citrus notes accompanied by energetic spice, earth and ...",
+      "price": "$17.99",
+      "image": "www.bccannabisstores.com/cdn/shop/products/1041599_512x512.progressive.jpg?v=1637270458"
+    },
+    {
+      "id": 72,
+      "type": "pre-rolls",
+      "title": "BENNY BLUNTO PRE-ROLL\n(GARLIC BREATH\n)",
+      "brand": "The Loud Plug",
+      "feature": "THC 220.0-280.0mg/g\nCBD 0.0-10.0mg/g",
+      "description": "This indica-dominant, 1g joint contains the extra-gassy aromas of Garlic Breath. High-THC and grown indoors, this strain contains the prominant ter...",
+      "price": "$12.99",
+      "image": "www.bccannabisstores.com/cdn/shop/products/1040492_512x512.progressive.jpg?v=1639524378"
+    },
+    {
+      "id": 73,
+      "type": "pre-rolls",
+      "title": "GRAPE GAS PRE-ROLLS",
+      "brand": "Weed Me",
+      "feature": "THC 260.0-330.0mg/g\nCBD 0.0-10.0mg/g",
+      "description": "Grape Gas is an indica-dominant strain created through a potent cross of (OG Chem X Grand Daddy Purple) X The Truth. The aroma takes a pungent t...",
+      "price": "$13.97",
+      "image": "www.bccannabisstores.com/cdn/shop/products/1043454_512x512.progressive.jpg?v=1644967569"
+    },
+    {
+      "id": 74,
+      "type": "pre-rolls",
+      "title": "BC ORGANIC LIME MI'JITO PRE-ROLLS",
+      "brand": "Simply Bare",
+      "feature": "THC 250.0-300.0mg/g\nCBD 0.0-10.0mg/g",
+      "description": "BC Organic Lime Mi'Jito is a FVOPA certified, sativa-leaning flower that is a cross of Limegerian\u00a0 x Orange Blossom Trail cultivars. The strong lim...",
+      "price": "$7.99",
+      "image": "www.bccannabisstores.com/cdn/shop/products/1044221_512x512.progressive.jpg?v=1647286895"
+    },
+    {
+      "id": 75,
+      "type": "pre-rolls",
+      "title": "SATIVA 420 PRE-ROLLS",
+      "brand": "Weed Me Grind",
+      "feature": "THC 220.0-290.0mg/g\nCBD 0.0-10.0mg/g",
+      "description": "This sativa-dominant strain is milled and then filled into light-weight paper cones with a paper mouthpiece. Each pack contains 20 pre-rolls.",
+      "price": "$39.99",
+      "image": "www.bccannabisstores.com/cdn/shop/products/1044809_512x342.progressive.jpg?v=1649444347"
+    },
+    {
+      "id": 76,
+      "type": "pre-rolls",
+      "title": "INDICA 420 PRE-ROLLS",
+      "brand": "Weed Me Grind",
+      "feature": "THC 220.0-290.0mg/g\nCBD 0.0-10.0mg/g",
+      "description": "This indica-dominant strain is milled and then filled into light-weight paper cones with a paper mouthpiece. Each pack contains 20 pre-rolls.",
+      "price": "$39.99",
+      "image": "www.bccannabisstores.com/cdn/shop/products/1044809_89caaa7d-ae0a-479b-b513-a8d7b2b58347_512x342.progressive.jpg?v=1649444415"
+    },
+    {
+      "id": 77,
+      "type": "pre-rolls",
+      "title": "ROOT BEER FLOAT PRE-ROLLS",
+      "brand": "BOLD",
+      "feature": "THC 300.0-350.0mg/g\nCBD 1.0-10.0mg/g",
+      "description": "Root Beer Float is a rare indica-dominant hybrid created through crossing XXX OG and Vanilla Kush. Enter into a sweet hazy, earthy bliss with hints...",
+      "price": "$15.99",
+      "image": "www.bccannabisstores.com/cdn/shop/products/MicrosoftTeams-image_2_512x512.progressive.jpg?v=1670022559"
+    },
+    {
+      "id": 78,
+      "type": "pre-rolls",
+      "title": "JEALOUSY PRE-ROLLS",
+      "brand": "BLKMKT",
+      "feature": "THC 240.0-300.0mg/g\nCBD 0.0-10.0mg/g",
+      "description": "This unique indica-dominant cross (Cookies Gelato 41 x Sherbet Bx1) has notes of gas and sweet apple pie, with subtle hints of mint and pine. Dark ...",
+      "price": "$11.99",
+      "image": "www.bccannabisstores.com/cdn/shop/products/1046309_512x512.progressive.jpg?v=1652903325"
+    },
+    {
+      "id": 79,
+      "type": "pre-rolls",
+      "title": "HGH PRE-ROLLS",
+      "brand": "Castle Rock Farms",
+      "feature": "THC 290.0-340.0mg/g\nCBD 0.0-8.0mg/g",
+      "description": "HGH was bred by combining GMO with Bruce Banner. These legendary strains are behind this beautiful indica-dominant flower. These buds grow large, d...",
+      "price": "$26.99",
+      "image": "www.bccannabisstores.com/cdn/shop/files/MicrosoftTeams-image_6_500x500.progressive.jpg?v=1683653408"
+    },
+    {
+      "id": 80,
+      "type": "pre-rolls",
+      "title": "BC GOD BUD PRE-ROLLS",
+      "brand": "Versus",
+      "feature": "THC 180.0-230.0mg/g\nCBD 0.0-10.0mg/g",
+      "description": "Versus BC God Bud is an earthy indica-dominant strain with a flawless grind and pack for steady burn. High in Caryophyllene, Humulene, and Myrcene.",
+      "price": "$6.99",
+      "image": "www.bccannabisstores.com/cdn/shop/products/1046937_512x512.progressive.jpg?v=1653598370"
+    },
+    {
+      "id": 81,
+      "type": "pre-rolls",
+      "title": "ORGANIC COMATOSE PRE-ROLLS",
+      "brand": "1964",
+      "feature": "THC 230.0-290.0mg/g\nCBD 0.0-10.0mg/g",
+      "description": "Comatose is a heavy Kush and one of Canada's most popular legacy strains. This indica-dominant flower is reported to be a cross of OG Kush and anot...",
+      "price": "$7.99",
+      "image": "www.bccannabisstores.com/cdn/shop/products/1047703_512x512.progressive.jpg?v=1655506598"
+    },
+    {
+      "id": 82,
+      "type": "pre-rolls",
+      "title": "MANDARIN COOKIES PREROLLS",
+      "brand": "Back Forty",
+      "feature": "THC 220.0-280.0mg/g\nCBD 0.0mg/g",
+      "description": "40s pre-rolls are 0.35G machine-rolled slim joints that offer a consistent, even burn with enhanced airflow and flavour. These Mandarin Cookies pre...",
+      "price": "$18.99",
+      "image": "www.bccannabisstores.com/cdn/shop/products/1047851_512x512.progressive.jpg?v=1656612755"
+    },
+    {
+      "id": 83,
+      "type": "pre-rolls",
+      "title": "LAYER CHEESECAKE PRE-ROLLS",
+      "brand": "Weed Me",
+      "feature": "THC 250.0-310.0mg/g\nCBD 0.0-10.0mg/g",
+      "description": "Layer Cheesecake is an Indica strain of very strong THC potency. It is made by crossing the delicious Wedding Cake X GMO X (Triangle Kush X Skun...",
+      "price": "$24.99",
+      "image": "www.bccannabisstores.com/cdn/shop/products/1047877_512x512.progressive.jpg?v=1657816717"
+    },
+    {
+      "id": 84,
+      "type": "pre-rolls",
+      "title": "PLATINUM GRAPES PRE-ROLLS",
+      "brand": "Organnicraft",
+      "feature": "THC 210.0-260.0mg/g\nCBD 0.0-10.0mg/g",
+      "description": "Platinum Grapes is the definition of exotic, straight grape deliciousness with 2-4% overall terpenes. Robust grapes and cream aromas complemente...",
+      "price": "$15.99",
+      "image": "www.bccannabisstores.com/cdn/shop/products/1048123_1_512x416.progressive.jpg?v=1659133669"
+    },
+    {
+      "id": 85,
+      "type": "pre-rolls",
+      "title": "STO:LO HAZE PRE-ROLLS",
+      "brand": "All Nations",
+      "feature": "THC 280.0-330.0mg/g\nCBD 0.1-10.0mg/g",
+      "description": "Explore the refreshing and boosting terpenes from Super Silver Haze crossed with the cozy body high of Northern Lights. These buds are light green ...",
+      "price": "$15.99",
+      "image": "www.bccannabisstores.com/cdn/shop/products/1048719_89277c12-e36e-4c78-8d6c-f0fb3083035e_512x512.progressive.jpg?v=1660948892"
+    },
+    {
+      "id": 86,
+      "type": "pre-rolls",
+      "title": "MAC DADDY PRE-ROLLS",
+      "brand": "All Nations",
+      "feature": "THC 240.0-300.0mg/g\nCBD 0.1-10.0mg/g",
+      "description": "A cross between the popular Miracle Alien Cookies and the sweet and flavourful Granddaddy Purple.\u00a0 This indica leaning strain produces large, dense...",
+      "price": "$15.99",
+      "image": "www.bccannabisstores.com/cdn/shop/products/1048743_d0e4c2f6-958b-4833-98a0-52c3b70048c8_512x512.progressive.jpg?v=1660948929"
+    },
+    {
+      "id": 87,
+      "type": "pre-rolls",
+      "title": "GREASE MONKEY PRE-ROLLS",
+      "brand": "Sitka Micro",
+      "feature": "THC 270.0-310.0mg/g\nCBD 0.0-10.0mg/g",
+      "description": "This is some of KnL Cannabis' finest work. With earthy and skunky overtones, this indica-dominant hybrid gives a smooth smoke. Grease Monkey's pung...",
+      "price": "$13.97",
+      "image": "www.bccannabisstores.com/cdn/shop/products/1048651_512x512.progressive.jpg?v=1658937815"
+    },
+    {
+      "id": 88,
+      "type": "pre-rolls",
+      "title": "PINK KUSH AND BLUE DREAM VARIETY PACK PR",
+      "brand": "Station House",
+      "feature": "THC 200.0-260.0mg/g\nCBD 0.01-20.0mg/g",
+      "description": "Variety is the spice of life, so why settle for one strain when you can have two classic strains. This unique half-gram, pre-roll multipack gives y...",
+      "price": "$36.99",
+      "image": "www.bccannabisstores.com/cdn/shop/products/1049048_512x512.progressive.jpg?v=1664215204"
+    },
+    {
+      "id": 89,
+      "type": "pre-rolls",
+      "title": "GHOST TRAIN HAZE SINGLE PRE-ROLL",
+      "brand": "Station House",
+      "feature": "THC 200.0-260.0mg/g\nCBD 0.02-20.0mg/g",
+      "description": "Whole flower Ghost Train Haze will give you crisp, fresh, and energizing aromas of citrus and florals from its Beta-Caryophyllene, Humulene, and Te...",
+      "price": "$4.99",
+      "image": "www.bccannabisstores.com/cdn/shop/products/1049063_512x512.progressive.png.jpg?v=1664215138"
+    },
+    {
+      "id": 90,
+      "type": "pre-rolls",
+      "title": "SPACE CAKE PRE-ROLLS",
+      "brand": "Color Cannabis",
+      "feature": "THC 220.0-280.0mg/g\nCBD 0.0-20.0mg/g",
+      "description": "Color\u2019s elevated Space Cake 10-pack pre-rolls are the perfect choice for a premium cannabis experience. This indica-dominant hybrid cultivar off...",
+      "price": "$19.99",
+      "image": "www.bccannabisstores.com/cdn/shop/products/1048248_512x512.progressive.jpg?v=1659549991"
+    },
+    {
+      "id": 91,
+      "type": "pre-rolls",
+      "title": "CBD RUNTZ PRE-ROLLS",
+      "brand": "Orchid CBD",
+      "feature": "THC 70.0-130.0mg/g\nCBD 100.0-170.0mg/g",
+      "description": "From Exotic Genetix, CBD Runtz is a hybrid sativa-dominant strain that crosses Runtz and Mystic Magic (CBD). The flower has been carefully cultivat...",
+      "price": "$22.99",
+      "image": "www.bccannabisstores.com/cdn/shop/products/1050046_512x512.progressive.jpg?v=1661884057"
+    },
+    {
+      "id": 92,
+      "type": "pre-rolls",
+      "title": "CUBAN LINX PRE-ROLLS",
+      "brand": "Tribal",
+      "feature": "THC 230.0-290.0mg/g\nCBD 0.0-10.0mg/g",
+      "description": "Cuban Linx is a sativa-dominant strain with its refreshing, lemon gassy aromas and diverse terpene profile of Caryophyllene, Ocimene, and Terpineol...",
+      "price": "$22.99",
+      "image": "www.bccannabisstores.com/cdn/shop/products/1050061_512x512.progressive.jpg?v=1661883922"
+    },
+    {
+      "id": 93,
+      "type": "pre-rolls",
+      "title": "SATIVA 20% PLUS PRE-ROLLS\n(VARIES PER STRAIN USED\n)",
+      "brand": "Weed Me Grind",
+      "feature": "THC 240.0-300.0mg/g\nCBD 0.0-10.0mg/g",
+      "description": "Presenting Weed Me's strain specific 1g pre-rolls! This sativa-dominant strain boasts high-THC that becomes milled and then filled into lightweight...",
+      "price": "$4.99",
+      "image": "www.bccannabisstores.com/cdn/shop/products/1050129_512x512.progressive.jpg?v=1661959129"
+    },
+    {
+      "id": 94,
+      "type": "pre-rolls",
+      "title": "INDICA 20% PLUS PRE-ROLLS\n(VARIES PER STRAIN USED)",
+      "brand": "Weed Me Grind",
+      "feature": "THC 220.0-300.0mg/g\nCBD 0.0-10.0mg/g",
+      "description": "Presenting Weed Me's strain specific pre-rolls! This indica-dominant strain boasts high-THC that becomes milled and then filled into lightweight...",
+      "price": "$4.99",
+      "image": "www.bccannabisstores.com/cdn/shop/products/1050137_512x512.progressive.jpg?v=1661959354"
+    },
+    {
+      "id": 95,
+      "type": "pre-rolls",
+      "title": "VANILLA LATTE PRE-ROLLS",
+      "brand": "Sitka Micro",
+      "feature": "THC 250.0-300.0mg/g\nCBD 0.0-10.0mg/g",
+      "description": "This cross of Vanilla Frosting and Sol Mate packs a super sweet and creamy vanilla taste with a lightly spicy exhale. Terpenes include Beta-Caryoph...",
+      "price": "$15.99",
+      "image": "www.bccannabisstores.com/cdn/shop/products/1051077_512x512.progressive.png.jpg?v=1664983365"
+    },
+    {
+      "id": 96,
+      "type": "pre-rolls",
+      "title": "PINK CAKE PRE ROLLS",
+      "brand": "Good Buds",
+      "feature": "THC 210.0-260.0mg/g\nCBD 0.0-50.0mg/g",
+      "description": "Pink Cake can best be described as an elevated Pink Kush. This GOOD BUDS original cross of Pink Kush, Wedding Cake, and Bowser #24 slaps like a Pin...",
+      "price": "$8.99",
+      "image": "www.bccannabisstores.com/cdn/shop/files/1051440_jpg_480x480.progressive.jpg?v=1683735053"
+    },
+    {
+      "id": 97,
+      "type": "Vape",
+      "title": "PINEAPPLE EXPRESS 510 CARTRIDGE",
+      "brand": "Good Supply",
+      "feature": "THC 870.0-930.0mg/g\nCBD 0.0mg/g",
+      "description": "Pineapple Express is a high-potency THC extract made from cannabis that is cured then extracted with C02, purified into distillate, and combined wi...",
+      "price": "$21.99",
+      "image": "www.bccannabisstores.com/cdn/shop/files/1028653_512x512.progressive.jpg?v=1688141586"
+    },
+    {
+      "id": 98,
+      "type": "Vape",
+      "title": "SATIVA CARTRIDGE\n(STRAWBERRY ICE)",
+      "brand": "Kolab Project",
+      "feature": "THC 850.0mg/g\nCBD 8.5mg/g",
+      "description": "Kolab's Sativa 0.5 Vape Cartridge has zesty citrus peel, followed by juicy orange notes. Finish notes are slightly woody, dry and warm, with citrus...",
+      "price": "$21.97",
+      "image": "www.bccannabisstores.com/cdn/shop/products/1018951_png_480x480.progressive.jpg?v=1590184074"
+    },
+    {
+      "id": 99,
+      "type": "Vape",
+      "title": "SUPER LEMON HAZE SATIVA CARTIDGE",
+      "brand": "Back Forty",
+      "feature": "THC 800.0-860.0mg/g\nCBD 0.0-1.0mg/g",
+      "description": "Back Forty Super Lemon Haze Sativa strain has a tangy, citrus burst of flavour with subtle herbal undertones; the main terpenes are limonene and te...",
+      "price": "$18.99",
+      "image": "www.bccannabisstores.com/cdn/shop/products/1027002_512x512.progressive.jpg?v=1602012027"
+    },
+    {
+      "id": 100,
+      "type": "Vape",
+      "title": "PURPLE MONKEY 510 CARTRIDGE",
+      "brand": "Good Supply",
+      "feature": "THC 860.0-910.0mg/g\nCBD 0.0-10.0mg/g",
+      "description": "Purple Monkey contains a high-potency THC distillate with 100% plant-based terpenes and flavours of sweet grape.",
+      "price": "$21.99",
+      "image": "www.bccannabisstores.com/cdn/shop/files/1028661_512x512.progressive.jpg?v=1688141724"
+    },
+    {
+      "id": 101,
+      "type": "Vape",
+      "title": "CBD EARTH VAPE CARTRIDGE",
+      "brand": "Purefarma",
+      "feature": "THC 31.88-43.1mg/g\nCBD 637.5-862.5mg/g",
+      "description": "Purefarma's Earth CBD Oil is carefully extracted from hand-harvested CBD flower. The proprietary extraction process produces a full-plant inhalable...",
+      "price": "$17.97",
+      "image": "www.bccannabisstores.com/cdn/shop/products/1026418_fullspectrum_500x500.progressive.jpg?v=1601407339"
+    },
+    {
+      "id": 102,
+      "type": "Vape",
+      "title": "BLACKBERRY CREAM INDICA CARTRIDGE",
+      "brand": "Foray",
+      "feature": "THC 800.0mg/g\nCBD 0.0mg/g",
+      "description": "Foray's Indica 1g vape cartridge has fresh, leafy green notes, followed by crisp citrus, and is influenced by the Blackberry Cream strain. Finish i...",
+      "price": "$36.99",
+      "image": "www.bccannabisstores.com/cdn/shop/products/1025337_512x512.progressive.jpg?v=1597357210"
+    },
+    {
+      "id": 103,
+      "type": "Vape",
+      "title": "KUSH MINT HYBRID CARTRIDGE",
+      "brand": "Back Forty",
+      "feature": "THC 800.0-860.0mg/g\nCBD 0.0mg/g",
+      "description": "Back Forty Kush Mint Hybrid strain has a burst of mint with a gentle lemongrass finish; the main terpenes are menthol and limonene. Compatible with...",
+      "price": "$32.99",
+      "image": "www.bccannabisstores.com/cdn/shop/products/1029819_1_512x512.progressive.jpg?v=1607973190"
+    },
+    {
+      "id": 104,
+      "type": "Vape",
+      "title": "FORBIDDEN FRUIT INDICA CARTRIDGE",
+      "brand": "Back Forty",
+      "feature": "THC 800.0-860.0mg/g\nCBD 0.0-1.0mg/g",
+      "description": "Back Forty Forbidden Fruit Indica strain has earthy tasting notes with a subtle berry influence, finished with citrus. The main terpenes are limone...",
+      "price": "$18.99",
+      "image": "www.bccannabisstores.com/cdn/shop/products/1027010_512x513.progressive.jpg?v=1602012296"
+    },
+    {
+      "id": 105,
+      "type": "Vape",
+      "title": "ANYTIME 1:1 VAPE - BERRY LEMONADE",
+      "brand": "Glacial Gold",
+      "feature": "THC 400.0-420.0mg/g\nCBD 400.0-420.0mg/g",
+      "description": "This 1:1 Berry Lemonade is inspired by fresh-picked berries found in BC and citrus terpenes found in cannabis. Glacial Gold distillate is processed...",
+      "price": "$27.99",
+      "image": "www.bccannabisstores.com/cdn/shop/files/1035815_1_512x528.progressive.jpg?v=1701792696"
+    },
+    {
+      "id": 106,
+      "type": "Vape",
+      "title": "HIGH THC VAPE CARTRIDGE",
+      "brand": "Pure Sunfarms",
+      "feature": "THC 890.0-960.0mg/g\nCBD 0.0-10.0mg/g",
+      "description": "Pure Sunfarms\u2019 High THC vape cartridges are filled with all-natural cannabis distillate, refined to deliver a spotlight on THC. Each vape cartridge...",
+      "price": "$35.99",
+      "image": "www.bccannabisstores.com/cdn/shop/files/01036797_512x512.progressive.jpg?v=1692401106"
+    },
+    {
+      "id": 107,
+      "type": "Vape",
+      "title": "NINJA FRUIT VAPE CARTRIDGE",
+      "brand": "-ness",
+      "feature": "THC 810.0-880.0mg/g\nCBD 0.0-10.0mg/g",
+      "description": "Produced in BC with local whole flower from the Fraser Valley, Ninja Fruit's THC-dominant formula has flavours of sweet grape and tropical fruit im...",
+      "price": "$32.99",
+      "image": "www.bccannabisstores.com/cdn/shop/products/1034974_512x512.progressive.jpg?v=1619720448"
+    },
+    {
+      "id": 108,
+      "type": "Vape",
+      "title": "HYCYCLE INDICA-WAPPA VAPE",
+      "brand": "Hycycle",
+      "feature": "THC 810.0-890.0mg/g\nCBD 0.0-25.0mg/g",
+      "description": "Indica-dominant vape cartridge made using high quality distillate, cannabis terpenes, and botanical terpenes. The THC range is 86-91% and has a ...",
+      "price": "$35.99",
+      "image": "www.bccannabisstores.com/cdn/shop/products/1032721_512x512.progressive.jpg?v=1676309213"
+    },
+    {
+      "id": 109,
+      "type": "Vape",
+      "title": "PINEAPPLE PARADISE CARTRIDGE\n(PINEAPPLE PARADISE\n)",
+      "brand": "Spinach",
+      "feature": "THC 776.0-824.0mg/g\nCBD 0.0-100.0mg/g",
+      "description": "A cross of Pre-98 Bubba Kush and Sour Diesel, the first whiff of Pineapple Paradise produces lush and sweet pineapple aromas that fill the air. Den...",
+      "price": "$29.99",
+      "image": "www.bccannabisstores.com/cdn/shop/products/1039379_512x512.progressive.jpg?v=1635455009"
+    },
+    {
+      "id": 110,
+      "type": "Vape",
+      "title": "HYCYCLE SATIVA-LEMON RIOT VAPE",
+      "brand": "Hycycle",
+      "feature": "THC 850.0-910.0mg/g\nCBD 0.0-25.0mg/g",
+      "description": "Sativa-dominant vape cartridge made using high quality distillate, cannabis terpenes, and botanical terpenes. The THC range is 86-91% and delive...",
+      "price": "$35.99",
+      "image": "www.bccannabisstores.com/cdn/shop/products/1032804_7a81b3e3-a5d6-444e-903e-33e0d1acd012_512x512.progressive.jpg?v=1676309323"
+    },
+    {
+      "id": 111,
+      "type": "Vape",
+      "title": "ATOMIC SOUR GRAPEFRUIT CARTRIDGE",
+      "brand": "Spinach",
+      "feature": "THC 776.0-824.0mg/g\nCBD 0.0-100.0mg/g",
+      "description": "This Spinach\u2122 exclusive packs grapefruit flavours at near nuclear levels. A cross of rocket fuel from Chemdawg and powered up potency of SFV OG Kus...",
+      "price": "$29.99",
+      "image": "www.bccannabisstores.com/cdn/shop/products/1039387_512x512.progressive.jpg?v=1635883173"
+    },
+    {
+      "id": 112,
+      "type": "Vape",
+      "title": "PEACH OG PREFILLED VAPE\n(PEACH RING\n)",
+      "brand": "BOXHOT 1000",
+      "feature": "THC 800.0-833.0mg/g\nCBD 0.0-10.0mg/g",
+      "description": "BOXHOT PRESENTS: Peach OG, a 1.2g 510 threaded vape, featuring a colossal 1000mg of THC and some of the purest cannabis distillate available on the...",
+      "price": "$39.99",
+      "image": "www.bccannabisstores.com/cdn/shop/products/1047349_512x512.progressive.jpg?v=1655918815"
+    },
+    {
+      "id": 113,
+      "type": "Vape",
+      "title": "MASTER KUSH CARTRIDGE",
+      "brand": "Common Ground",
+      "feature": "THC 760.0-840.0mg/g\nCBD 0.0-20.0mg/g",
+      "description": "Indica-dominant vape cart with THC, CBD, CBC, and CBG. The Master Kush genetic has an earthy, spicy aromatic quality with touches of pine and citru...",
+      "price": "$19.97",
+      "image": "www.bccannabisstores.com/cdn/shop/products/1035252_500x500.progressive.jpg?v=1630716389"
+    },
+    {
+      "id": 114,
+      "type": "Vape",
+      "title": "BLUEBERRY DYNAMITE CARTRIDGE",
+      "brand": "Spinach",
+      "feature": "THC 776.0-824.0mg/g\nCBD 0.0-100.0mg/g",
+      "description": "Hold on tight, friends! This vape is dynamite. Blueberry Dynamite draws inspiration from our legendary Blue Dream and cultivar lineage of Blueberry...",
+      "price": "$29.99",
+      "image": "www.bccannabisstores.com/cdn/shop/products/1045541_512x512.progressive.jpg?v=1650999802"
+    },
+    {
+      "id": 115,
+      "type": "Vape",
+      "title": "HASH PLANT CARTRIDGE",
+      "brand": "Common Ground",
+      "feature": "THC 760.0-840.0mg/g\nCBD 0.0-20.0mg/g",
+      "description": "Hybrid vape cart with THC, CBD, CBC, and CBG. The Hash Plant genetic holds a deep, woody aroma with a dash of sweet incense. It has rich, peppery s...",
+      "price": "$19.97",
+      "image": "www.bccannabisstores.com/cdn/shop/products/1035245_747dcb0f-8892-4883-9a19-1cbcb6b6fa27_500x500.progressive.jpg?v=1632253762"
+    },
+    {
+      "id": 116,
+      "type": "Vape",
+      "title": "MELON BUBBLE HAZE 510 THREAD VAPE KIT",
+      "brand": "Feather",
+      "feature": "THC 800.0-860.0mg/g\nCBD 0.0-50.0mg/g",
+      "description": "Melon Bubble Haze is a potent formula with a nostalgically sweet melon aroma. The carts use only natural terpenes. The intuitive proprietary design...",
+      "price": "$21.99",
+      "image": "www.bccannabisstores.com/cdn/shop/products/1044981_512x512.progressive.jpg?v=1649445447"
+    },
+    {
+      "id": 117,
+      "type": "Vape",
+      "title": "CHERRY KUSH PREFILLED VAPE\n(CHERRY KUSH\n)",
+      "brand": "BOXHOT 1000",
+      "feature": "THC 800.0-833.0mg/g\nCBD 0.0-20.0mg/g",
+      "description": "Cherry Kush a 1.2g 510-threaded vape featuring a colossal 1000mg of THC. This tasty vape hits big with maraschino cherry flavour complimented with ...",
+      "price": "$39.99",
+      "image": "www.bccannabisstores.com/cdn/shop/products/1052547_512x512.progressive.jpg?v=1665504212"
+    },
+    {
+      "id": 118,
+      "type": "Vape",
+      "title": "CBD 3:1 BERRY LEMONADE VAPE",
+      "brand": "Glacial Gold",
+      "feature": "THC 180.0-200.0mg/g\nCBD 570.0-600.0mg/g",
+      "description": "This 3:1 CBD Berry Lemonade vape is inspired by fresh-picked berries found in BC blended with citrus terpenes. Glacial Gold distillate is processed...",
+      "price": "$23.99",
+      "image": "www.bccannabisstores.com/cdn/shop/files/1048685_026d1b92-c2c7-4fa5-85b5-7084954ddd92_512x528.progressive.jpg?v=1701792984"
+    },
+    {
+      "id": 119,
+      "type": "Vape",
+      "title": "ACAPULCO GOLD CARTRIDGE",
+      "brand": "JONNY CHRONIC",
+      "feature": "THC 850.0-910.0mg/g\nCBD 0.0-50.0mg/g",
+      "description": "Acapulco Gold by Jonny Economy is a sativa-dominant strain with 85-91% THC and minimal CBD. Made with THC distillate and botanical terpenes, Acapul...",
+      "price": "$32.97",
+      "image": "www.bccannabisstores.com/cdn/shop/products/1038249_512x512.progressive.jpg?v=1634760909"
+    },
+    {
+      "id": 120,
+      "type": "Vape",
+      "title": "ALIEN OG PREFILLED VAPE",
+      "brand": "BOXHOT 1000",
+      "feature": "THC 800.0-860.0mg/g\nCBD 0.0-20.0mg/g",
+      "description": "Alien OG, a 1.2 g 510-threaded vape, features cannabis distillate. It has gas, earthy, and lime flavours on the inhale, and leaves you with fruity ...",
+      "price": "$39.99",
+      "image": "www.bccannabisstores.com/cdn/shop/products/1043371_512x512.progressive.jpg?v=1649268336"
+    },
+    {
+      "id": 121,
+      "type": "Vape",
+      "title": "BLACKBERRY KUSH CBN (DEEP DREAMZ) CART\n(BLACKBERRY KUSH\n)",
+      "brand": "Spinach FEELZ",
+      "feature": "THC 670.0-730.0mg/g\nCBD 0.0-100.0mg/g",
+      "description": "The Spinach FEELZ\u2122 Blackberry Kush CBN (Deep Dreamz) vape features a unique blend of 7:1 THC and CBN. Linalool, Terpinolene, and Beta-Caryophyllene...",
+      "price": "$31.99",
+      "image": "www.bccannabisstores.com/cdn/shop/products/1048313_512x512.progressive.jpg?v=1657145551"
+    },
+    {
+      "id": 122,
+      "type": "Vape",
+      "title": "PEACH RINGZ PREFILLED CARTRIDGE",
+      "brand": "General Admission",
+      "feature": "THC 830.0-900.0mg/g\nCBD 0.0-100.0mg/g",
+      "description": "General Admission create quality THC distillate infused with botanical terpenes that complement the natural aromas of the strain selection. Sativa-...",
+      "price": "$32.99",
+      "image": "www.bccannabisstores.com/cdn/shop/products/1044932_512x512.progressive.jpg?v=1648776057"
+    },
+    {
+      "id": 123,
+      "type": "Vape",
+      "title": "MOSA X BLOOD ORANGE CARTRIDGE",
+      "brand": "Endgame",
+      "feature": "THC 870.0-920.0mg/g\nCBD 0.0-50.0mg/g",
+      "description": "Mimosa and Blood Orange come together to offer a sweet orange flavour in a sativa-dominant hybrid cart with a terpene profile of limonene, alpha-pi...",
+      "price": "$31.99",
+      "image": "www.bccannabisstores.com/cdn/shop/products/1043504_512x512.progressive.jpg?v=1645646900"
+    },
+    {
+      "id": 124,
+      "type": "Vape",
+      "title": "TAHOE OG KUSH 510 THREAD VAPE KIT",
+      "brand": "Feather",
+      "feature": "THC 800.0-860.0mg/g\nCBD 0.0-50.0mg/g",
+      "description": "Tahoe OG Kush is a northern California cross between OG Kush and San Fernando Valley Kush. This indica-dominant profile has a desired fruity and ga...",
+      "price": "$21.99",
+      "image": "www.bccannabisstores.com/cdn/shop/products/1044973_512x512.progressive.jpg?v=1649445105"
+    },
+    {
+      "id": 125,
+      "type": "Vape",
+      "title": "MELON BUBBLE HAZE 510THREAD VAPE CATRIDG",
+      "brand": "Feather",
+      "feature": "THC 800.0-860.0mg/g\nCBD 0.0-10.0mg/g",
+      "description": "A potent and fun formula with a nostalgically sweet melon aroma. Potent and pure using only natural terpenes, with 80 to 86 percent THC potency, bo...",
+      "price": "$32.99",
+      "image": "www.bccannabisstores.com/cdn/shop/products/1049170_512x512.progressive.jpg?v=1660251793"
+    },
+    {
+      "id": 126,
+      "type": "Vape",
+      "title": "232-S SERIES LIVE ROSIN VAPE CARTRIDGE\n(WEDDING PIE\n)",
+      "brand": "Kolab Project",
+      "feature": "THC 650.0-750.0mg/g\nCBD 0.0mg/g",
+      "description": "This rendition of the 232-S Series, a Live Rosin cart, provides cannabis enthusiasts with an authentic, terpene-rich, full-spectrum experience deli...",
+      "price": "$49.99",
+      "image": "www.bccannabisstores.com/cdn/shop/products/1045046_jpg_480x480.progressive.jpg?v=1671829472"
+    },
+    {
+      "id": 127,
+      "type": "Vape",
+      "title": "JUICY BLUEBERRY HIGH THC VAPE CART",
+      "brand": "Pure Sunfarms",
+      "feature": "THC 830.0-890.0mg/g\nCBD 0.0-10.0mg/g",
+      "description": "This Juicy Blueberry High THC Vape is popping with sweet-tart flavour and high potency. Refined THC distillate is combined with blueberry and le...",
+      "price": "$35.99",
+      "image": "www.bccannabisstores.com/cdn/shop/files/01036813_512x512.progressive.jpg?v=1692401216"
+    },
+    {
+      "id": 128,
+      "type": "Vape",
+      "title": "INDIANA BG CARTRIDGE\n(INDIANA BUBBLEGUM)",
+      "brand": "Jonny Chronic",
+      "feature": "THC 880.0-940.0mg/g\nCBD 0.0-30.0mg/g",
+      "description": "Indiana BG by Jonny Economy is an indica-dominant strain with 88-94% THC and minimal CBD. Made with THC distillate and botanical terpenes including...",
+      "price": "$34.99",
+      "image": "www.bccannabisstores.com/cdn/shop/products/1052398_512x512.progressive.png.jpg?v=1665504324"
+    },
+    {
+      "id": 129,
+      "type": "Vape",
+      "title": "ORANGE HILL FSE SHATTER VAPE",
+      "brand": "Dab Bods",
+      "feature": "THC 740.0-840.0mg/g\nCBD 0.0-4.0mg/g",
+      "description": "Dab Bods Orange Hill FSE Shatter Vape brings to you live resin shatter in a convenient, discreet 1 gram cartridge. Already famous for being ...",
+      "price": "$31.99",
+      "image": "www.bccannabisstores.com/cdn/shop/files/1047166_f7fbcf9b-893c-4eab-bae2-7e0be6225290_512x512.progressive.jpg?v=1688165112"
+    },
+    {
+      "id": 130,
+      "type": "Vape",
+      "title": "HAWAIIAN FSE SHATTER VAPE",
+      "brand": "Dab Bods",
+      "feature": "THC 740.0-840.0mg/g\nCBD 0.0-4.0mg/g",
+      "description": "Dab Bods Hawaiian FSE Shatter Vape brings to you live resin shatter in a convenient 1g cartridge. Already famous for being popular and poten...",
+      "price": "$31.99",
+      "image": "www.bccannabisstores.com/cdn/shop/files/1047174_3504d6f7-3949-47bf-b840-d1b3f5afa6f5_512x512.progressive.jpg?v=1688165142"
+    },
+    {
+      "id": 131,
+      "type": "Vape",
+      "title": "TROPICAL DIESEL THC + CBG CARTRIDGE\n(CHILL BLISS)",
+      "brand": "Spinach FEELZ",
+      "feature": "THC 670.0-730.0mg/g\nCBD 0.0-10.0mg/g",
+      "description": "SPINACH FEELZ\u2122 Tropical Diesel CBG vape is a new take on award-winning SPINACH\u2122 Diesel, boosted with CBG. Features sweet tangerine, citrusy flavour...",
+      "price": "$31.99",
+      "image": "www.bccannabisstores.com/cdn/shop/products/1044288_512x512.progressive.jpg?v=1646078241"
+    },
+    {
+      "id": 132,
+      "type": "Vape",
+      "title": "COUCH LOCK KUSH PREFILLED VAPE CART",
+      "brand": "BOXHOT 1000",
+      "feature": "THC 570.0-630.0mg/g\nCBD 0.0-20.0mg/g",
+      "description": "Couch Lock Kush CBN, a 1.2g 510 threaded vape, featuring a colossal 1000MG of cannabinoids and some of the purest cannabis distillate available on ...",
+      "price": "$41.99",
+      "image": "www.bccannabisstores.com/cdn/shop/products/1050228_512x512.progressive.jpg?v=1661798827"
+    },
+    {
+      "id": 133,
+      "type": "Vape",
+      "title": "TIGER BLOOD DISTILLATE VAPE CARTRIDGE",
+      "brand": "General Admission",
+      "feature": "THC 830.0-890.0mg/g\nCBD 0.0-15.0mg/g",
+      "description": "General Admission vapes are all about flavour.\u00a0 Big. Bold.\u00a0 High quality THC distillate infused with botanical terpenes that complement the natural...",
+      "price": "$32.99",
+      "image": "www.bccannabisstores.com/cdn/shop/products/1048362_512x512.progressive.jpg?v=1659650893"
+    },
+    {
+      "id": 134,
+      "type": "Vape",
+      "title": "PAX BLUE DREAM 1GR LIVE ROSIN BLEND POD",
+      "brand": "PAX ERA PODS",
+      "feature": "THC 800.0-860.0mg/g\nCBD 0.0mg/g",
+      "description": "PAX's fresh-pressed live rosin contains natural THC, terpenes, and flavonoids for a high potency (with the help of added full-spectrum disti...",
+      "price": "$53.99",
+      "image": "www.bccannabisstores.com/cdn/shop/products/1062111_512x512.progressive.jpg?v=1680539921"
+    },
+    {
+      "id": 135,
+      "type": "Vape",
+      "title": "HYCYCLE RAW CARTRIDGE",
+      "brand": "Hycycle",
+      "feature": "THC 890.0-970.0mg/g\nCBD 0.0-10.0mg/g",
+      "description": "Rugged CCell 1-gram Hycycle Raw cartridge is nearly odourless and tasteless, the only ingredient is pure THC distillate, nothing added. This vape c...",
+      "price": "$35.99",
+      "image": "www.bccannabisstores.com/cdn/shop/products/1045111_3f7ad841-9576-4379-b5ab-738b38d8aa1b_512x512.progressive.jpg?v=1676309493"
+    },
+    {
+      "id": 136,
+      "type": "Vape",
+      "title": "BC PURPLE KUSH FULL SPECTRUM 510 VAPE CART",
+      "brand": "Versus",
+      "feature": "THC 770.0-830.0mg/g\nCBD 0.0-60.0mg/g",
+      "description": "Versus Full Spectrum 510 vapes are made to deliver a natural, true-to-strain flavour. BC Purple Kush is a sweet and earthy indica-dominant strai...",
+      "price": "$34.99",
+      "image": "www.bccannabisstores.com/cdn/shop/files/1063113_500x500.progressive.jpg?v=1690388367"
+    },
+    {
+      "id": 137,
+      "type": "Vape",
+      "title": "WATERMELON SUGAR LIVE RESIN CARTRIDGE",
+      "brand": "Dab Bods",
+      "feature": "THC 760.0-860.0mg/g\nCBD 1.0-5.0mg/g",
+      "description": "Dab Bods Live Indica Vape Cartridges features live-resin cannabis BHO extract sourced from cannabis growers across Canada. This 1g vape cart is com...",
+      "price": "$39.99",
+      "image": "www.bccannabisstores.com/cdn/shop/files/1037738_512x512.progressive.jpg?v=1688165080"
+    },
+    {
+      "id": 138,
+      "type": "Vape",
+      "title": "PURPLE HAZE CARTRIDGE",
+      "brand": "JONNY CHRONIC",
+      "feature": "THC 880.0-940.0mg/g\nCBD 0.0-50.0mg/g",
+      "description": "Purple Haze by Jonny Economy is a Sativa-dominant strain with 88-94% THC and minimal CBD. Made with THC distillate and botanical terpenes, Purple H...",
+      "price": "$34.99",
+      "image": "www.bccannabisstores.com/cdn/shop/products/1050103_512x512.progressive.jpg?v=1661896499"
+    },
+    {
+      "id": 139,
+      "type": "Vape",
+      "title": "SOUR FRUIT BURST CARTRIDGE",
+      "brand": "Sticky Greens",
+      "feature": "THC 800.0-860.0mg/g\nCBD 0.0-20.0mg/g",
+      "description": "Sour Fruit Burst has strawberry, fruit punch, and sour citrus notes all blended together. Sticky Greens' 510 vape cartridges use cannabis distillat...",
+      "price": "$35.99",
+      "image": "www.bccannabisstores.com/cdn/shop/files/1044031_36880bd9-f35f-4670-982a-9ce213cc67e9_512x512.progressive.jpg?v=1684273902"
+    },
+    {
+      "id": 140,
+      "type": "Vape",
+      "title": "GUAVA STARDAWG PREFILLED VAPE CART",
+      "brand": "Boxhot 1000",
+      "feature": "THC 800.0-833.0mg/g\nCBD 0.0-20.0mg/g",
+      "description": "BOXHOT PRESENTS: Guava Stardawg, a 1.2g 510-threaded vape, boasting a colossal 1000mg of THC made from cannabis distillate. This tropical rocket ha...",
+      "price": "$39.99",
+      "image": "www.bccannabisstores.com/cdn/shop/products/1060268_512x512.progressive.jpg?v=1678979435"
+    },
+    {
+      "id": 141,
+      "type": "Vape",
+      "title": "MANGO KIWI HAZE THC+CBC (DAY TRIP) CART",
+      "brand": "Spinach FEELZ",
+      "feature": "THC 670.0-720.0mg/g\nCBD 0.0-5.0mg/g",
+      "description": "Spinach Feelz\u2122 Mango Kiwi Haze CBC 7:1 THC:CBC vape is inspired by the always refreshing and fruity Mango Haze cultivar, with juicy kiwi fla...",
+      "price": "$31.99",
+      "image": "www.bccannabisstores.com/cdn/shop/products/1059625_512x512.progressive.jpg?v=1677520234"
+    },
+    {
+      "id": 142,
+      "type": "Vape",
+      "title": "CHERRY BLOSSOM OG CARTRIDGE",
+      "brand": "Fuego",
+      "feature": "THC 850.0-900.0mg/g\nCBD 0.0-30.0mg/g",
+      "description": "A sweet cherry aroma combined with high-potency cannabis extract in a top grade 510-thread cartridge for a flavourful experience. Top terpenes incl...",
+      "price": "$29.99",
+      "image": "www.bccannabisstores.com/cdn/shop/products/1059096_512x512.progressive.jpg?v=1674583613"
+    },
+    {
+      "id": 143,
+      "type": "Vape",
+      "title": "PAX BLUEBERRY OG 1GR LIVE ROSIN BLEND POD",
+      "brand": "PAX ERA PODS",
+      "feature": "THC 800.0-860.0mg/g\nCBD 0.0-10.0mg/g",
+      "description": "PAX's fresh-pressed live rosin contains natural THC, terpenes, and flavonoids for a high potency (with the help of added full-spectrum disti...",
+      "price": "$53.99",
+      "image": "www.bccannabisstores.com/cdn/shop/files/1063381_512x512.progressive.jpg?v=1692635727"
+    },
+    {
+      "id": 144,
+      "type": "Vape",
+      "title": "PEACHY LYCHEE VAPE CARTRIDGE",
+      "brand": "Fuego",
+      "feature": "THC 850.0-900.0mg/g\nCBD 0.0-30.0mg/g",
+      "description": "Fire up fruity freshness with Fuego! A refreshing blend of peach and lychee aromas with a terpene profile of Myrcene, Geraniol, Farnesene, and Humu...",
+      "price": "$29.99",
+      "image": "www.bccannabisstores.com/cdn/shop/products/1059088_512x512.progressive.jpg?v=1674583761"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+.home-container {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+.category-container {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  background: linear-gradient(90deg, #e3ffe7 0%, #d9e7ff 100%);
+
+  .category-grid {
+    width: 85%;
+    margin: 2rem auto;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-auto-rows: 1fr;
+    gap: 1.5rem;
+    padding: 1rem;
+  }
+}
+
+.product-container {
+  width: 100%;
+  margin-top: calc(var(--nav-height) - 1rem);
+  min-height: calc(100vh - var(--nav-height) - 2rem);
+}
