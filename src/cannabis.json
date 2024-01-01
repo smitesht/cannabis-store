@@ -86,7 +86,7 @@
   "vape": [
     {
       "id": 123,
-      "type": "Vape",
+      "type": "vape",
       "title": "MOSA X BLOOD ORANGE CARTRIDGE",
       "brand": "Endgame",
       "feature": "THC 870.0-920.0mg/g\nCBD 0.0-50.0mg/g",
@@ -96,7 +96,7 @@
     },
     {
       "id": 124,
-      "type": "Vape",
+      "type": "vape",
       "title": "TAHOE OG KUSH 510 THREAD VAPE KIT",
       "brand": "Feather",
       "feature": "THC 800.0-860.0mg/g\nCBD 0.0-50.0mg/g",
@@ -106,7 +106,7 @@
     },
     {
       "id": 125,
-      "type": "Vape",
+      "type": "vape",
       "title": "MELON BUBBLE HAZE 510THREAD VAPE CATRIDG",
       "brand": "Feather",
       "feature": "THC 800.0-860.0mg/g\nCBD 0.0-10.0mg/g",
@@ -116,7 +116,7 @@
     },
     {
       "id": 126,
-      "type": "Vape",
+      "type": "vape",
       "title": "232-S SERIES LIVE ROSIN VAPE CARTRIDGE\n(WEDDING PIE\n)",
       "brand": "Kolab Project",
       "feature": "THC 650.0-750.0mg/g\nCBD 0.0mg/g",
@@ -1088,7 +1088,7 @@
     },
     {
       "id": 97,
-      "type": "Vape",
+      "type": "vape",
       "title": "PINEAPPLE EXPRESS 510 CARTRIDGE",
       "brand": "Good Supply",
       "feature": "THC 870.0-930.0mg/g\nCBD 0.0mg/g",
@@ -1098,7 +1098,7 @@
     },
     {
       "id": 98,
-      "type": "Vape",
+      "type": "vape",
       "title": "SATIVA CARTRIDGE\n(STRAWBERRY ICE)",
       "brand": "Kolab Project",
       "feature": "THC 850.0mg/g\nCBD 8.5mg/g",
@@ -1108,7 +1108,7 @@
     },
     {
       "id": 99,
-      "type": "Vape",
+      "type": "vape",
       "title": "SUPER LEMON HAZE SATIVA CARTIDGE",
       "brand": "Back Forty",
       "feature": "THC 800.0-860.0mg/g\nCBD 0.0-1.0mg/g",
@@ -1118,7 +1118,7 @@
     },
     {
       "id": 100,
-      "type": "Vape",
+      "type": "vape",
       "title": "PURPLE MONKEY 510 CARTRIDGE",
       "brand": "Good Supply",
       "feature": "THC 860.0-910.0mg/g\nCBD 0.0-10.0mg/g",
@@ -1128,7 +1128,7 @@
     },
     {
       "id": 101,
-      "type": "Vape",
+      "type": "vape",
       "title": "CBD EARTH VAPE CARTRIDGE",
       "brand": "Purefarma",
       "feature": "THC 31.88-43.1mg/g\nCBD 637.5-862.5mg/g",
@@ -1138,7 +1138,7 @@
     },
     {
       "id": 102,
-      "type": "Vape",
+      "type": "vape",
       "title": "BLACKBERRY CREAM INDICA CARTRIDGE",
       "brand": "Foray",
       "feature": "THC 800.0mg/g\nCBD 0.0mg/g",
@@ -1148,7 +1148,7 @@
     },
     {
       "id": 103,
-      "type": "Vape",
+      "type": "vape",
       "title": "KUSH MINT HYBRID CARTRIDGE",
       "brand": "Back Forty",
       "feature": "THC 800.0-860.0mg/g\nCBD 0.0mg/g",
@@ -1158,7 +1158,7 @@
     },
     {
       "id": 104,
-      "type": "Vape",
+      "type": "vape",
       "title": "FORBIDDEN FRUIT INDICA CARTRIDGE",
       "brand": "Back Forty",
       "feature": "THC 800.0-860.0mg/g\nCBD 0.0-1.0mg/g",
@@ -1168,7 +1168,7 @@
     },
     {
       "id": 105,
-      "type": "Vape",
+      "type": "vape",
       "title": "ANYTIME 1:1 VAPE - BERRY LEMONADE",
       "brand": "Glacial Gold",
       "feature": "THC 400.0-420.0mg/g\nCBD 400.0-420.0mg/g",
@@ -1178,7 +1178,7 @@
     },
     {
       "id": 106,
-      "type": "Vape",
+      "type": "vape",
       "title": "HIGH THC VAPE CARTRIDGE",
       "brand": "Pure Sunfarms",
       "feature": "THC 890.0-960.0mg/g\nCBD 0.0-10.0mg/g",
@@ -1188,7 +1188,7 @@
     },
     {
       "id": 107,
-      "type": "Vape",
+      "type": "vape",
       "title": "NINJA FRUIT VAPE CARTRIDGE",
       "brand": "-ness",
       "feature": "THC 810.0-880.0mg/g\nCBD 0.0-10.0mg/g",
@@ -1198,7 +1198,7 @@
     },
     {
       "id": 108,
-      "type": "Vape",
+      "type": "vape",
       "title": "HYCYCLE INDICA-WAPPA VAPE",
       "brand": "Hycycle",
       "feature": "THC 810.0-890.0mg/g\nCBD 0.0-25.0mg/g",
@@ -1208,7 +1208,7 @@
     },
     {
       "id": 109,
-      "type": "Vape",
+      "type": "vape",
       "title": "PINEAPPLE PARADISE CARTRIDGE\n(PINEAPPLE PARADISE\n)",
       "brand": "Spinach",
       "feature": "THC 776.0-824.0mg/g\nCBD 0.0-100.0mg/g",
@@ -1218,7 +1218,7 @@
     },
     {
       "id": 110,
-      "type": "Vape",
+      "type": "vape",
       "title": "HYCYCLE SATIVA-LEMON RIOT VAPE",
       "brand": "Hycycle",
       "feature": "THC 850.0-910.0mg/g\nCBD 0.0-25.0mg/g",
@@ -1228,7 +1228,7 @@
     },
     {
       "id": 111,
-      "type": "Vape",
+      "type": "vape",
       "title": "ATOMIC SOUR GRAPEFRUIT CARTRIDGE",
       "brand": "Spinach",
       "feature": "THC 776.0-824.0mg/g\nCBD 0.0-100.0mg/g",
@@ -1238,7 +1238,7 @@
     },
     {
       "id": 112,
-      "type": "Vape",
+      "type": "vape",
       "title": "PEACH OG PREFILLED VAPE\n(PEACH RING\n)",
       "brand": "BOXHOT 1000",
       "feature": "THC 800.0-833.0mg/g\nCBD 0.0-10.0mg/g",
@@ -1248,7 +1248,7 @@
     },
     {
       "id": 113,
-      "type": "Vape",
+      "type": "vape",
       "title": "MASTER KUSH CARTRIDGE",
       "brand": "Common Ground",
       "feature": "THC 760.0-840.0mg/g\nCBD 0.0-20.0mg/g",
@@ -1258,7 +1258,7 @@
     },
     {
       "id": 114,
-      "type": "Vape",
+      "type": "vape",
       "title": "BLUEBERRY DYNAMITE CARTRIDGE",
       "brand": "Spinach",
       "feature": "THC 776.0-824.0mg/g\nCBD 0.0-100.0mg/g",
@@ -1268,7 +1268,7 @@
     },
     {
       "id": 115,
-      "type": "Vape",
+      "type": "vape",
       "title": "HASH PLANT CARTRIDGE",
       "brand": "Common Ground",
       "feature": "THC 760.0-840.0mg/g\nCBD 0.0-20.0mg/g",
@@ -1278,7 +1278,7 @@
     },
     {
       "id": 116,
-      "type": "Vape",
+      "type": "vape",
       "title": "MELON BUBBLE HAZE 510 THREAD VAPE KIT",
       "brand": "Feather",
       "feature": "THC 800.0-860.0mg/g\nCBD 0.0-50.0mg/g",
@@ -1288,7 +1288,7 @@
     },
     {
       "id": 117,
-      "type": "Vape",
+      "type": "vape",
       "title": "CHERRY KUSH PREFILLED VAPE\n(CHERRY KUSH\n)",
       "brand": "BOXHOT 1000",
       "feature": "THC 800.0-833.0mg/g\nCBD 0.0-20.0mg/g",
@@ -1298,7 +1298,7 @@
     },
     {
       "id": 118,
-      "type": "Vape",
+      "type": "vape",
       "title": "CBD 3:1 BERRY LEMONADE VAPE",
       "brand": "Glacial Gold",
       "feature": "THC 180.0-200.0mg/g\nCBD 570.0-600.0mg/g",
@@ -1308,7 +1308,7 @@
     },
     {
       "id": 119,
-      "type": "Vape",
+      "type": "vape",
       "title": "ACAPULCO GOLD CARTRIDGE",
       "brand": "JONNY CHRONIC",
       "feature": "THC 850.0-910.0mg/g\nCBD 0.0-50.0mg/g",
@@ -1318,7 +1318,7 @@
     },
     {
       "id": 120,
-      "type": "Vape",
+      "type": "vape",
       "title": "ALIEN OG PREFILLED VAPE",
       "brand": "BOXHOT 1000",
       "feature": "THC 800.0-860.0mg/g\nCBD 0.0-20.0mg/g",
@@ -1328,7 +1328,7 @@
     },
     {
       "id": 121,
-      "type": "Vape",
+      "type": "vape",
       "title": "BLACKBERRY KUSH CBN (DEEP DREAMZ) CART\n(BLACKBERRY KUSH\n)",
       "brand": "Spinach FEELZ",
       "feature": "THC 670.0-730.0mg/g\nCBD 0.0-100.0mg/g",
@@ -1338,7 +1338,7 @@
     },
     {
       "id": 122,
-      "type": "Vape",
+      "type": "vape",
       "title": "PEACH RINGZ PREFILLED CARTRIDGE",
       "brand": "General Admission",
       "feature": "THC 830.0-900.0mg/g\nCBD 0.0-100.0mg/g",
@@ -1348,7 +1348,7 @@
     },
     {
       "id": 123,
-      "type": "Vape",
+      "type": "vape",
       "title": "MOSA X BLOOD ORANGE CARTRIDGE",
       "brand": "Endgame",
       "feature": "THC 870.0-920.0mg/g\nCBD 0.0-50.0mg/g",
@@ -1358,7 +1358,7 @@
     },
     {
       "id": 124,
-      "type": "Vape",
+      "type": "vape",
       "title": "TAHOE OG KUSH 510 THREAD VAPE KIT",
       "brand": "Feather",
       "feature": "THC 800.0-860.0mg/g\nCBD 0.0-50.0mg/g",
@@ -1368,7 +1368,7 @@
     },
     {
       "id": 125,
-      "type": "Vape",
+      "type": "vape",
       "title": "MELON BUBBLE HAZE 510THREAD VAPE CATRIDG",
       "brand": "Feather",
       "feature": "THC 800.0-860.0mg/g\nCBD 0.0-10.0mg/g",
@@ -1378,7 +1378,7 @@
     },
     {
       "id": 126,
-      "type": "Vape",
+      "type": "vape",
       "title": "232-S SERIES LIVE ROSIN VAPE CARTRIDGE\n(WEDDING PIE\n)",
       "brand": "Kolab Project",
       "feature": "THC 650.0-750.0mg/g\nCBD 0.0mg/g",
@@ -1388,7 +1388,7 @@
     },
     {
       "id": 127,
-      "type": "Vape",
+      "type": "vape",
       "title": "JUICY BLUEBERRY HIGH THC VAPE CART",
       "brand": "Pure Sunfarms",
       "feature": "THC 830.0-890.0mg/g\nCBD 0.0-10.0mg/g",
@@ -1398,7 +1398,7 @@
     },
     {
       "id": 128,
-      "type": "Vape",
+      "type": "vape",
       "title": "INDIANA BG CARTRIDGE\n(INDIANA BUBBLEGUM)",
       "brand": "Jonny Chronic",
       "feature": "THC 880.0-940.0mg/g\nCBD 0.0-30.0mg/g",
@@ -1408,7 +1408,7 @@
     },
     {
       "id": 129,
-      "type": "Vape",
+      "type": "vape",
       "title": "ORANGE HILL FSE SHATTER VAPE",
       "brand": "Dab Bods",
       "feature": "THC 740.0-840.0mg/g\nCBD 0.0-4.0mg/g",
@@ -1418,7 +1418,7 @@
     },
     {
       "id": 130,
-      "type": "Vape",
+      "type": "vape",
       "title": "HAWAIIAN FSE SHATTER VAPE",
       "brand": "Dab Bods",
       "feature": "THC 740.0-840.0mg/g\nCBD 0.0-4.0mg/g",
@@ -1428,7 +1428,7 @@
     },
     {
       "id": 131,
-      "type": "Vape",
+      "type": "vape",
       "title": "TROPICAL DIESEL THC + CBG CARTRIDGE\n(CHILL BLISS)",
       "brand": "Spinach FEELZ",
       "feature": "THC 670.0-730.0mg/g\nCBD 0.0-10.0mg/g",
@@ -1438,7 +1438,7 @@
     },
     {
       "id": 132,
-      "type": "Vape",
+      "type": "vape",
       "title": "COUCH LOCK KUSH PREFILLED VAPE CART",
       "brand": "BOXHOT 1000",
       "feature": "THC 570.0-630.0mg/g\nCBD 0.0-20.0mg/g",
@@ -1448,7 +1448,7 @@
     },
     {
       "id": 133,
-      "type": "Vape",
+      "type": "vape",
       "title": "TIGER BLOOD DISTILLATE VAPE CARTRIDGE",
       "brand": "General Admission",
       "feature": "THC 830.0-890.0mg/g\nCBD 0.0-15.0mg/g",
@@ -1458,7 +1458,7 @@
     },
     {
       "id": 134,
-      "type": "Vape",
+      "type": "vape",
       "title": "PAX BLUE DREAM 1GR LIVE ROSIN BLEND POD",
       "brand": "PAX ERA PODS",
       "feature": "THC 800.0-860.0mg/g\nCBD 0.0mg/g",
@@ -1468,7 +1468,7 @@
     },
     {
       "id": 135,
-      "type": "Vape",
+      "type": "vape",
       "title": "HYCYCLE RAW CARTRIDGE",
       "brand": "Hycycle",
       "feature": "THC 890.0-970.0mg/g\nCBD 0.0-10.0mg/g",
@@ -1478,7 +1478,7 @@
     },
     {
       "id": 136,
-      "type": "Vape",
+      "type": "vape",
       "title": "BC PURPLE KUSH FULL SPECTRUM 510 VAPE CART",
       "brand": "Versus",
       "feature": "THC 770.0-830.0mg/g\nCBD 0.0-60.0mg/g",
@@ -1488,7 +1488,7 @@
     },
     {
       "id": 137,
-      "type": "Vape",
+      "type": "vape",
       "title": "WATERMELON SUGAR LIVE RESIN CARTRIDGE",
       "brand": "Dab Bods",
       "feature": "THC 760.0-860.0mg/g\nCBD 1.0-5.0mg/g",
@@ -1498,7 +1498,7 @@
     },
     {
       "id": 138,
-      "type": "Vape",
+      "type": "vape",
       "title": "PURPLE HAZE CARTRIDGE",
       "brand": "JONNY CHRONIC",
       "feature": "THC 880.0-940.0mg/g\nCBD 0.0-50.0mg/g",
@@ -1508,7 +1508,7 @@
     },
     {
       "id": 139,
-      "type": "Vape",
+      "type": "vape",
       "title": "SOUR FRUIT BURST CARTRIDGE",
       "brand": "Sticky Greens",
       "feature": "THC 800.0-860.0mg/g\nCBD 0.0-20.0mg/g",
@@ -1518,7 +1518,7 @@
     },
     {
       "id": 140,
-      "type": "Vape",
+      "type": "vape",
       "title": "GUAVA STARDAWG PREFILLED VAPE CART",
       "brand": "Boxhot 1000",
       "feature": "THC 800.0-833.0mg/g\nCBD 0.0-20.0mg/g",
@@ -1528,7 +1528,7 @@
     },
     {
       "id": 141,
-      "type": "Vape",
+      "type": "vape",
       "title": "MANGO KIWI HAZE THC+CBC (DAY TRIP) CART",
       "brand": "Spinach FEELZ",
       "feature": "THC 670.0-720.0mg/g\nCBD 0.0-5.0mg/g",
@@ -1538,7 +1538,7 @@
     },
     {
       "id": 142,
-      "type": "Vape",
+      "type": "vape",
       "title": "CHERRY BLOSSOM OG CARTRIDGE",
       "brand": "Fuego",
       "feature": "THC 850.0-900.0mg/g\nCBD 0.0-30.0mg/g",
@@ -1548,7 +1548,7 @@
     },
     {
       "id": 143,
-      "type": "Vape",
+      "type": "vape",
       "title": "PAX BLUEBERRY OG 1GR LIVE ROSIN BLEND POD",
       "brand": "PAX ERA PODS",
       "feature": "THC 800.0-860.0mg/g\nCBD 0.0-10.0mg/g",
@@ -1558,7 +1558,7 @@
     },
     {
       "id": 144,
-      "type": "Vape",
+      "type": "vape",
       "title": "PEACHY LYCHEE VAPE CARTRIDGE",
       "brand": "Fuego",
       "feature": "THC 850.0-900.0mg/g\nCBD 0.0-30.0mg/g",

@@ -6,8 +6,6 @@
   align-items: center;
   justify-content: space-around;
   background-color: var(--nav-bg-color);
-  position: fixed;
-  top: 0;
 
   h1 {
     display: flex;
@@ -46,4 +44,13 @@
 
 .active {
   border-bottom: 1px solid white;
+}
+
+.shopping-cart {
+  font-size: 1.2rem;
+  margin-right: 0.2rem;
+}
+
+.cart-qty {
+  font-size: 0.9rem;
 }

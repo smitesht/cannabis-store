@@ -9,6 +9,7 @@
   --nav-bg-color: #132a13;
 
   --primary-color: var(--nav-bg-color);
+  --light-primary-color: #4f704f;
 }
 
 body {
