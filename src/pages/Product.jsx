@@ -1,7 +1,6 @@
-import React, { useEffect, useState } from "react";
+import React, { useEffect } from "react";
 import { useSelector, useDispatch } from "react-redux";
-import { useParams } from "react-router-dom";
-import CannabisData from "../cannabis.json";
+import { useParams, useNavigate } from "react-router-dom";
 import Breadcrum from "../components/Breadcrum/Breadcrum";
 import { selectProduct } from "../redux/productSlice";
 import { addToCart } from "../redux/cartSlice";
@@ -11,6 +10,7 @@ const Product = () => {
 
   const { selectedProduct, breadcrum } = useSelector((state) => state.products);
   const dispatch = useDispatch();
+  const navigate = useNavigate();
 
   useEffect(() => {
     dispatch(selectProduct(id));
@@ -18,6 +18,7 @@ const Product = () => {
 
   const OnAddToCartHandler = (e) => {
     dispatch(addToCart(selectedProduct));
+    navigate("/cart");
   };
 
   return (
